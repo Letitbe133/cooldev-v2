@@ -1,0 +1,623 @@
+/*
+couleur fond (bleu foncé) : #00101a
+couleur menu & cta (rose)) : #F92AC2
+couleur cadre(jaune)) : #FFFD10
+couleur titres (bleu): #00F4D9
+*/
+
+/* Helpers material-icons*/
+
+.material-icons.md-18 { font-size: 18px; }
+
+.material-icons.md-24 { font-size: 24px; }
+
+.material-icons.md-36 { font-size: 36px; }
+
+.material-icons.md-48 { font-size: 48px; }
+
+.material-icons.md-60 { font-size: 60px; }
+
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 62.5%;
+  box-sizing: border-box;
+
+
+
+}
+
+header{
+	position: relative;
+  	display: flex;
+	height: 90vh;
+	
+	background-image: url("../img/textures/index.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+		
+	
+}
+#header {
+	z-index: 2;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 16, 26, 0.8);
+  z-index: 1;
+ }
+header img:hover {
+  cursor: pointer;
+}
+header h1{
+	font-size: 3rem!important;
+	text-transform: uppercase;
+	text-shadow: 2px 3px 0px  rgba(0,0,0, 0.2);
+	font-weight: 900;
+	color: white;
+	text-rendering: optimizeLegibility;
+	/*background-image: url("../img/masking-tape-yellow.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-size: 100% 100%;*/
+   
+}
+header h2{
+	font-size: 1.7rem;
+	font-weight: 100!important;
+
+	color: white;
+}
+.bold {
+	font-weight: 400;
+}
+.markup{
+	font-style: bold;
+	background-image: url("../img/masking-tape-pink.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-size: 100% 100%;
+   font-weight: 500;
+   color:#00101a;
+   padding-right: px;
+   padding-left: 3px;
+}
+
+.tape{
+	 font-weight: normal;
+	 background-image: url("../img/masking-tape-yellow.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    color:#00101a;
+    padding: 0;
+  
+   
+
+}
+
+h1{
+  color: #00101a;
+  font-size: 4rem;
+  /*letter-spacing: 0.1em;*/
+  text-rendering: optimizeLegibility;
+
+
+}
+h2 {
+	color:#333333;
+	font-weight: 300!important;
+	padding-bottom: 20px;
+	
+}
+h3{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  padding-bottom: 2rem;
+
+}
+h5 {
+	color:#00101a;
+}
+
+p{
+	color: #00101a;
+   font-weight: 200;
+   font-size: 2rem;
+
+}
+.material-icons{
+	
+	
+}
+.modal-footer a i {
+	vertical-align:middle;
+}
+
+
+
+mark, mark strong{
+	background-color: transparent;
+	font-weight: bold;
+
+
+}
+strong {
+	font-weight: 100;
+}
+p strong {
+	font-weight: 100;
+}
+h2 strong {
+	font-weight: normal;
+}
+
+.btn {
+  text-transform: none !important;
+}
+
+
+/*********************************NAV*************************************************/
+nav {
+	background-color:#00101a;
+	opacity: 1;
+
+}
+
+nav .brand-logo{
+	padding: 15px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 20px 0;
+}
+
+nav ul li {
+
+	line-height: 15px;
+	padding-left: 30px;
+	padding-right: 15px;
+}
+
+nav ul a {
+	font-size: 1.6rem;
+	padding:6px;
+}
+
+.nav-wrapper a .material-icons {
+  color: white!important;
+}
+
+#mobile-menu {
+  z-index: 1000;
+}
+
+#sidenav-overlay {
+  z-index: 1;
+}
+
+.brand-logo{
+	padding: 15px;
+}
+.social {
+	padding-left: 20px;
+}
+.cta {
+  display: block;
+  margin: auto;
+  height: 6rem;
+  font-family: 'raleway', sans-serif;
+  font-size: 1.7rem;
+  color: black !important;
+  background-color: #F92AC2 !important;
+  box-shadow: 0.5rem 0.5rem 0rem #FFFD10;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-style: none;
+  border-radius: 0px;
+  text-transform: capitalize;
+}
+
+  .cta:hover {
+    box-shadow: 0rem 0rem 0rem #FFFD10;
+  }
+#up {
+  display: none;
+}
+  /************************************************** */
+  .div-cta {
+
+    margin: 0rem auto;
+    margin-bottom:6vh;
+
+  }
+
+  .btn cta {
+    display: block;
+    margin: 0 auto;
+    height: 6rem;
+    width: 20rem;
+    font-family: 'raleway', sans-serif;
+    font-size: 1.7rem;
+    color: black !important;
+    background-color: #F92AC2!important;
+    box-shadow: 0.5rem 0.5rem 0rem #FFFD10;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-style: none;
+    border-radius: 0px;
+    text-transform: lowercase
+
+  }
+
+.sections {
+	margin-top:5rem;
+}
+
+/*********************************MODAL 1*************************************************/
+#modal{
+	background-color:#F92AC2;
+}
+#modal h2{
+	color: black !important;
+	font-size: 2rem;
+	letter-spacing: 0em;
+	padding-top: 2rem;
+
+}
+
+.sec2 {
+	margin-top:0rem;
+}
+
+.text-sec2 p {
+  color: #333333!important;
+  font-weight: ;
+  font-size: 2.7em;
+  line-height: 2.8rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.picto {
+  	width:50%;
+  	margin:auto;
+}
+
+
+/*****************************************MOTTO******************************************/
+#motto {
+	padding-top: 0px;
+
+}
+.title h1 {
+	padding-bottom: 20px;
+}
+
+
+#motiv, #school{
+	background-color:white;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.collapsible-body p{
+	color: #00101a;
+}
+
+.collapsible-header h4 {
+	color:#00101a;
+}
+#motiv h3 {
+	color:#00101a;
+	font-weight: 400;
+	font-size: 3rem;
+}
+/*****************************************TESTIMONIAL******************************************/
+.section-testimonial {
+	background-color:white ;
+}
+#testimonial {
+	padding-top: 30px;
+
+}
+#us{
+	background-color:;
+}
+#us h5+p{
+	font-size: 1.2rem;
+}
+
+.card-content p {
+	color:#333333!important;
+}
+/*****************************************OFFRE******************************************/
+.offer-card {
+padding: 15px!important;	
+}
+.budget ul {
+	font-size: 2rem;
+	font-weight: 200;
+	color:black;
+}
+.budget li {
+
+	list-style-image: url("../img/arrow-right.png");
+}
+.card-header {
+	width: 100%;
+	height: 150px;
+padding: 20px!important;	
+}
+.card-header img {
+		
+		height: 100px;
+	}
+.picto-offre{
+	
+	padding-left: 50px!important;
+	padding-right: 50px!important;
+
+}
+#offre {
+	background-color: white;
+	margin-top: 80px;
+	}
+#offre h2 {
+		margin-bottom: 70px;
+}	
+#offre img {
+	height: 250px;
+}
+#offre p {
+	color:#333333;
+	font-size: 2rem!important;
+	font-weight: 400;
+	padding-top: 20px;
+
+}
+.collapsible h2{
+	font-size: 3em;
+   font-weight: bold;
+   letter-spacing: 0.1em;
+   line-height: 2em;
+	color: #333333;
+
+}
+
+.collapsible-header{
+	background-color: transparent;
+	padding-top:;
+	border-style: none;
+	z-index: 0;
+
+}
+.collaps p{
+	 margin-bottom: 1rem;
+    font-size:2rem;
+    color: black !important;
+}
+.collapsible{
+	border-style: none;
+}
+.collapsible-body{
+	color:black;
+	font-size:2rem;
+	border-style: yellow;
+	font-weight: 100;
+}
+
+.clear{
+	cursor:pointer;
+}
+#call-to-action {
+	background-color: white;
+}
+#call-to-action p{
+	font-size: 2rem;
+	padding-top: 0;
+}
+
+
+
+/*****************************************PAGES******************************************/
+.section-offre {
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+.section-offre img {
+	padding: 15px;
+}
+.section-header-light h1 {
+	color: #00c0a8;
+	font-weight: 900;
+}
+.section-header-light h2 {
+	color: black;
+	font-weight: 300!important;
+	font-size: 3.2rem;
+}
+.section-header-light {
+	background-color: white;
+	padding-top:50px!important;
+}
+.header-light p{
+	font-size: 1.8rem;
+	color: white;
+
+}
+.header-light {
+	/*padding-left: 25px;*/
+	padding-top:50px!important;
+	
+	background-color: white;
+
+
+}
+.header-light h1{
+	font-size: 2.5rem!important;
+	color:white;
+	text-transform: uppercase;
+	font-weight: 300;
+	background-image: none;
+	
+	padding-top: 0px;
+	text-shadow:none;
+
+}
+
+#school h3{
+	font-size: 2rem;
+	color: grey;
+}
+ .school-content ul {
+
+ }
+ 
+ .works h1, h2, h3, h4, p{
+	color:grey; 
+ }
+/************************************************************************************/
+#section-main-offer {
+	background-color: white;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+/****************************************CONTACT*****************************************/
+#section-contact{
+	background-color: white;
+	padding-top: 10px;
+}
+#discuss{
+	margin-top: 5rem;
+}
+.divContact {
+  margin-top: 1rem;
+}
+
+input[type="text"],input[type="email"], textarea.materialize-textarea {
+	border-bottom: 1px solid #00101a!important;
+	
+}
+#contact {
+	padding-bottom: 3rem;
+}
+input {
+	line-height: normal;
+	color: #00101a;
+}
+#contact div:nth-child(-n+4) {
+	display: block;
+   height: auto;
+   margin-top: 2rem;
+   padding: 2rem;
+   color: #F92AC2;
+   font-size: 2rem;
+  }
+#contact div:nth-child(0n+4) {
+   margin-bottom: 4vh;
+  }
+
+#contact div input {
+   font-size: 1.5rem;
+  }
+#contact div textarea {
+   border-style: none;
+   font-size: 1.5rem;
+   height: 20vh;
+  }
+.feedback {
+  font-size: 2rem;
+  color: #00101a;
+}
+#section-contact h3 {
+	color:#00101a;
+	font-weight: 400;
+	font-size: 3rem;
+}
+/***********************************SECTION-BUDGET*********************************************/
+.budget {
+	margin:;
+
+}
+/***********************************FOOTER*****************************************************/
+footer {
+	background-color:  #00101a;
+	padding: 20px;
+}
+.footer a, .footer a:active, .footer a:visited {
+   text-decoration: none;
+	color:white!important;
+	font-size:1.2rem;
+}
+.btn-flat{
+	color:#00F4D9;
+	font-size:1.2rem;
+}
+#modal1 p{
+	color: black !important;
+}
+#modal1 h3{
+	color:#F92AC2;
+}
+#social a{
+	padding-left: 20px;
+}
+.no-margin-bottom {
+	margin-bottom: 0;
+}
+.no-padding-bottom {
+	padding-bottom: 0!important;
+}
+#heart a {
+	cursor:url("../img/heart.png"), auto;
+}
+/***********************************MEDIA QUERIES<3********************************************/
+
+@media all and (min-width: 601px){
+	header h1{
+		font-size: 3.5rem!important;
+	}
+	header h2{
+	font-size: 2rem;}
+	#offre p {
+	font-size: 2rem;}
+	
+	
+}
+@media all and (min-width: 801px){
+
+    #contact div input, #contact div textarea {
+    	font-size: 2rem;
+    	}
+    .picto {
+  	 	width:40%;
+  		}
+  	 header h1{
+		font-size: 4.5rem!important;
+  		}
+  		header h2{
+	font-size: 2rem;}
+	#offre p {
+	font-size: 2.5rem;}
+}
+
+@media all and (min-width: 1200px){
+	header h1{
+		font-size: 5.5rem!important;
+  	}
+  	header h2{
+	font-size: 2rem;}
+	#offre p {
+	font-size: 3rem;}
+}
