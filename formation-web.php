@@ -35,62 +35,31 @@
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Débuter sur Facebook : Créer et gérer une Page Facebook</h3></div>
                 <div class="collapsible-body">
-                	<h4> Créer une Page Facebook</h4>
+                	<h4>Vous apprendrez à : </h4>
                 	<ul class="browser-default school-content">
-                		<li>Choisir une catégorie.</li>
-							<li>Attribuer un nom de Page.</li>
-							<li>Attribuer un nom d’utilisateur.</li>
-							<li>Ajouter une photo de profil.</li>
-							<li>Ajouter une photo de couverture.</li>
-							<li>Ajouter un bouton d’appel à l’action.</li>
-							<li>Remplir la rubrique « à propos ».</li>
-							<li>Connaître les onglets natifs affichés par défaut.</li>
-							<li>Gérer vos onglets d’application.</li>
-							<li>Connaître les conditions applicables aux pages Facebook.</li>
+                		<li>Créer une Page Facebook</li>
+                		<li>Configurer une Page Facebook</li>
+                		<li>Administrer une Page Facebook</li>
+                		<li>Acquérir vos premiers fans</li>
+                		<li>Comprendre le module d’analyse des statistiques Facebook Insights</li>
+                		<li>Animer sa page</li>
 						</ul>
-                	<h4>Configurer une Page Facebook</h4>
-                	<ul class="browser-default school-content">
-                		<li>Prendre en main le panneau d’administration.</li>
-							<li>Définir les paramètres généraux.</li>
-							<li>Attribuer les publications.</li>
-							<li>Choisir un mode de notifications.</li>
-							<li>Ajouter des administrateurs.</li>
-							<li>Gérer les rôles et autres pages.</li>
-							<li>Gérer les applications natives et tierces.</li>
-						</ul>
-						<h4>Administrer une Page Facebook</h4>
-                	<ul class="browser-default school-content">
-                		<li>Utiliser en tant que page.</li>
-							<li>Publier différents types de publication : statut, photo, vidéo, album photos, lien.</li>
-							<li>Publier une offre, un événement, un moment-clé.</li>
-							<li>Géolocaliser une publication.</li>
-							<li>Ajouter une humeur.</li>
-							<li>Modifier une publication.</li>
-							<li>Verrouiller une publication en haut.</li>
-							<li>Gérer les commentaires indésirables: masquer, afficher, supprimer, signaler, bannir.</li>
-							<li>Répondre aux messages.</li>
-						</ul>
-						<h4>Acquérir vos premiers fans</h4>
-                	<ul class="browser-default school-content">
-                		<li>Connaître les techniques simples pour acquérir vos premiers fans.</li>
-						</ul>
-						<h4>Comprendre le module d’analyse des statistiques</h4>
-                	<ul class="browser-default school-content">
-                		<li>Découvrir les onglets « vue d’ensemble », « mentions J’aime », « portée », « vue de pages », « actions sur la page », « publications », « vidéos », « personnes ».</li>
-						</ul>
-						<h4>Animer sa page</h4>
-                	<ul class="browser-default school-content">
-                		<li>Bonnes pratiques</li>
-							<li>Définir et rédiger son plan de communication sur facebook.</li>
-							<li>Intégrer sa page Facebook à sa stratégie de communication.</li>
-
-						</ul>
-                </div>
+					</div>
               </li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Débuter sur Twitter : Créer et gérer un compte Twitter</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body">
+                	<h4>Vous apprendrez à : </h4>
+                	<ul class="browser-default school-content">
+                		<li>Créer un compte Twitter</li>
+                		<li>Configurer un compte Twitter</li>
+                		<li>Comprendre et utiliser le langage et les usages du réseau social Twitter</li>
+                		<li>Publier vos premiers Tweet</li>
+                		<li>Comprendre le module d’analyse des statistiques Twitter </li>
+                		<li>Animer sa page</li>
+						</ul>
+					</div>
+                </li>
               <!--<li>
                 <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
@@ -108,51 +77,30 @@
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Google My Business</h3></div>
                 <div class="collapsible-body">
-                	<h4></h4>
+                	<h4>Pendant cette formation pratique, vous allez: </h4>
                 	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
+                		<li>Créer un compte Google My Business</li>
+							<li>Créer la page de votre entreprise</li>
+							<li>Remplir votre fiche établissement</li>
+							<li>Valider votre compte Google My Business auprès de Google</li>
+							<li>Apprendre comment mettre à jour les informations sur votre établissement et votre compte</li>
+							<li>Voir et comprendre les statistiques de votre fiche</li>
+							<li>Découvrir l'application mobile Google My Business</li>
 						</ul>
-                	<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-						</ul>
-                </div>
+					</div>
               </li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Vendre en ligne : la boutique Facebook</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body">
+                  <h4>Pendant cette formation pratique, nous allons voir : </h4>
+                	<ul class="browser-default school-content">
+                		<li>Quelles sont les fonctionnalités disponibles sur les boutiques Facebook</li>
+							<li>Comment créer une boutique sur votre page pro Facebook</li>
+							<li>Comment ajouter des produits à sa boutique Facebook</li>
+							<li>Comment faire la promotion de votre boutique Facebook</li>
+						</ul>
+					</div>
+                </li>
               <!--<li>
                 <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
@@ -167,54 +115,44 @@
 
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
+            <li>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Installer wordpress</h3></div>
+                <div class="collapsible-body">
+                <h4>Envie d'être autonome ? Vous avez besoin d'un petit coup de pouce pour vous lancer ? Nous vous guiderons dans : </h4>
+                	<ul class="browser-default school-content">
+                		<li>L'installation et le paramétrage de wordpress sur votre hébergement</li>
+							
+                </div>
+                </li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Prendre en mains Wordpress</h3></div>
                 <div class="collapsible-body">
                 	<h4></h4>
                 	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
+                		<li>Découverte et prise en main du tableau de bord de WordPress.</li>
+                		<li>Modifier le thème par défaut</li>
+                		<li>Créer des catégories et des pages</li>
+                		<li>Gérer les menus</li>
+							<li>Garder Wordpress et les plugins à jour</li>
 						</ul>
-                	<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-						</ul>
+                
                 </div>
               </li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Rédiger/publier un article</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body">
+                <h4>Pour blogger , il vous faudra savoir : </h4>
+                	<ul class="browser-default school-content">
+                		<li>Utiliser l'éditeur de texte</li>
+                		<li>Insérer différents médias : une image, une vidéo...</li>
+                		<li>Mettre des étiquettes et associer votre article à des catégories</li>
+                		<li>Optimiser votre référencement grâce au pluggin Yoast</li>
+                		<li>Gérer les commentaires</li>
+                		<li>Editer et modifier un article</li>
+						</ul>
+                
+                </div>
+                </li>
               <!--<li>
                 <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
                 <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
@@ -232,7 +170,7 @@
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Canva : créer des visuels pour les réseaux sociaux</h3></div>
                 <div class="collapsible-body">
-                	<h4></h4>
+                	<h4>Le logiciel en ligne Canva vous permet de réaliser toutes sortes de visuels pour le web. Vous saurez tout sur canva après cette formation ! </h4>
                 	<ul class="browser-default school-content">
                 		<li></li>
 							<li></li>
@@ -245,42 +183,32 @@
 							<li></li>
 							<li></li>
 						</ul>
-                	<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-						</ul>
-                </div>
+					</div>
               </li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Inkscape : s'initier au dessin vectoriel</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body">
+                <h4>Découvrez comment : </h4>
+                	<ul class="browser-default school-content">
+                		<li>Télécharger et installer Inscape, logiciel libre et gratuit de dessin vectoriel</li>
+                		<li>Demarrer avec Inkscape</li>
+                		<li>Réaliser des formes vectorielles simples</li>
+							<li>Exporter au format .png vos réalisations</li>
+						</ul>
+					</div>
+					</li>
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Gimp : les bases de la retouches d'images</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body"><h4>Découvrez comment : </h4>
+                	<ul class="browser-default school-content">
+                		<li>Télécharger et installer Gimp, logiciel libre et gratuit de traitement d'image</li>
+                		<li>Demarrer avec Gimp</li>
+                		<li>Réaliser les traitement d'image de base</li>
+							<li>Insérer du texte</li>
+							<li>Exporter vos réalisations</li>
+						</ul>
+					</div>
+					</li>
             </ul>
           </div>
 </div>
@@ -294,55 +222,26 @@
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Nom de domaine et hébergement</h3></div>
                 <div class="collapsible-body">
-                	<h4></h4>
+                	<h4>Envie d'être autonome ? Vous avez besoin d'un petit coup de pouce pour vous lancer ? Nous vous guiderons dans : </h4>
                 	<ul class="browser-default school-content">
-                		<li></li>
+                		<li>Le choix de votre nom de domaine</li>
+							<li>L' achat de votre nom de domaine chez Gandi.net</li>
+							<li>Le choix adapté pour votre hébergement</li>
+							<li>L' achat de votre hébergement chez Gandi.net</li>
+							<li>Lier votre nom de domaine à votre hébergement</li>
 							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-                	<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-						<h4></h4>
-                	<ul class="browser-default school-content">
-                		<li></li>
-						</ul>
                 </div>
               </li>
-              <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Installer wordpress</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+              
              <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>CSS / HTML5 : les bases</h3></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>
+                <div class="collapsible-body"><h4>Envie d'être autonome ? Découvrez les bases </h4>
+                	<ul class="browser-default school-content">
+                		<li>Du langage HTML</li>
+                		<li>Du langage CSS3</li>
+							<p>Nous adaptons cette formation à vos besoins, n'hésitez pas à nous faire part de votre projet</p>
+                </div>
+             </li>
             </ul>
           </div>
 </div>
