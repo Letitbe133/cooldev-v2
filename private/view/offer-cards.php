@@ -2,7 +2,7 @@
 			<div class="budget col s12 m12 l4">
 				<div class="card z-depth-2"; >
 					<div class="offer-card valign-wrapper  " id="starter">
-							<a href=""  class="cta card-header  center-align"><img src="TinySite/assets/logo-white.png" alt="" width=""></a>
+							<a href=""  class="cta card-header  center-align"><img src="assets/img/logo-white.png" alt="" width=""></a>
 					</div>
 					<div class="card-content ">
 					<ul class="browser-default">
