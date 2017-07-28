@@ -107,7 +107,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div id="target" class="teal lighten-3 card-image waves-effect waves-block waves-light">
-					<img  src="assets/img/works/work-timoun.png" alt="">
+					<img  src="assets/img/works/work-naturopathe.png" alt="">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Adaptatif<i class="material-icons right">more_vert</i></h3>
@@ -121,14 +121,14 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-              <img  src="assets/img/works/work-medilab.png">
+              <img  src="assets/img/works/work-with-you.png">
             </div>
             <div class="card-content">
-              <h3 class="card-title activator">Evolutif<i class="material-icons right ">more_vert</i></h3>
+              <h3 class="card-title activator">Avec plaisir !<i class="material-icons right ">more_vert</i></h3>
             </div>
             <div class="card-reveal">
-              <span class="card-title">Vos besoins évoluent ?<i class="material-icons right">close</i></span>
-              <p>Votre site web vous suit ! Rajouter des sections, des pages...<br>Contactez-nous, nous vous proposerons des solutions adaptées.</p>
+              <h4 class="card-title">Avec plaisir !<i class="material-icons right">close</i></h4>
+              <p>Nous sommes à votre disposition pour évaluer avec vous vos besoins en matière de communication digitale.<br><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">Contactez-nous</a>. Nous avons hâte de découvrir votre projet et de collaborer avec vous.</p>
             </div>
           </div>
       </div>
