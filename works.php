@@ -1,9 +1,24 @@
 <?php
   require_once('contact.php');
 ?>
+<!doctype html>
+<html lang="fr">
+  <head>
 <?php
 	include('private/view/head.php');
 ?>
+<title>Cooldev | A vos cotés dans votre communication digitale depuis 2017</title>
+<meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, présence numérique" />
+<meta name="description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
+
+<!-- Open Graph Meta Tags -->
+	<meta property="og:title" content="Cooldev | A vos cotés dans votre communication digitale depuis 2017">
+	<meta property="og:site_name" content="Cooldev">
+	<meta property="og:url" content="http://www.cooldev.xyz">
+	<meta property="og:description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/img-og.jpg">
+</head>
 <body>
 <?php
 	include('private/view/nav.php');
