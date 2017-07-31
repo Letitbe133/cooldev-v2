@@ -38,6 +38,7 @@ header{
 	background-image: url("../img/textures/index.png");
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 		
 	
 }
@@ -439,11 +440,11 @@ padding: 20px!important;
 	padding: 15px;
 }
 .section-header-light h1 {
-	color: #00c0a8;
+	color: #808080;
 	font-weight: 900;
 }
 .section-header-light h2 {
-	color: black;
+	color: #808080;
 	font-weight: 300!important;
 	font-size: 3.2rem;
 }
@@ -484,7 +485,10 @@ padding: 20px!important;
 
  }
  
- .works h1, h2, h3, h4, p{
+ .works p{
+	color:#00101A; 
+ }
+ .works h1, h2, h3, h4 {
 	color:grey; 
  }
 /************************************************************************************/

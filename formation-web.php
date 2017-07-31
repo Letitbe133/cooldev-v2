@@ -7,17 +7,17 @@
 <?php
 	include('private/view/head.php');
 ?>
-<title>Cooldev | A vos cotés dans votre communication digitale depuis 2017</title>
-<meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, présence numérique" />
-<meta name="description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
+<title>Formation web | Devenez autonome dans votre communication digitale</title>
+<meta name="keywords" content="Formation web, formation réseaux sociaux, formation wordpress, formation google my business" />
+<meta name="description" content="Formez-vous aux réseaux sociaux et aux outils numériques de communication pour faire grandir votre entreprise" />
 
 <!-- Open Graph Meta Tags -->
-	<meta property="og:title" content="Cooldev | A vos cotés dans votre communication digitale depuis 2017">
+	<meta property="og:title" content="Formation web | Devenez autonome dans votre communication digitale">
 	<meta property="og:site_name" content="Cooldev">
-	<meta property="og:url" content="http://www.cooldev.xyz">
-	<meta property="og:description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
+	<meta property="og:url" content="http://www.cooldev.xyz/formation-web.php">
+	<meta property="og:description" content="Formez-vous aux réseaux sociaux et aux outils numériques de communication pour faire grandir votre entreprise " />
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/img-og.jpg">
+	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/open-graph/og-formation-web.png">
 </head>
 <body>
 <?php
@@ -271,4 +271,4 @@
 <?php
 	include('private/view/footer.php');
 ?>
-</body> et
+</body>

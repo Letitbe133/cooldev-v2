@@ -31,7 +31,7 @@
 	    </div>
 	    <div class="card-reveal">
 	      <span class="card-title grey-text text-darken-4">Principales caractéristiques<i class="material-icons right">close</i></span>
-	      <p>Trilingue français/anglais/javascript, il lui est déjà arrivé de rêver en code. Vous l'aurez compris, son domaine, c'est la vie cachée de votre futur <strong>site web</strong>, le <strong>back-end</strong>. Sa passion secrète, c'est faire des treks en pleine nature avec son chien Spud.</p>
+	      <p>Trilingue français/anglais/javascript, il lui est déjà arrivé de rêver en code. Vous l'aurez compris, son domaine, c'est la vie cachée de votre futur <strong>site web</strong>, le <strong>back-end</strong>. Quand il ne code pas, il fait des treks en pleine nature avec son chien Spud.</p>
 	    </div>
 	  </div>
 	</div>

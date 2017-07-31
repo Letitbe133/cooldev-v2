@@ -67,21 +67,18 @@
 
   	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
-				<img class="responsive-img" src="assets/img/picto-puzzle-tape.png"  alt=""  >
+				<img src="assets/img/picto-puzzle-tape.png"  alt=""  >
 				<p>Une approche globale<p>
   		</div>
   		<div class="picto-offre col s12 m12 l4 center-align">
-				<img class="responsive-img" src="assets/img/picto-coop-tape.png"  alt=""   >
+				<img src="assets/img/picto-coop-tape.png"  alt=""   >
 				<p>Un accompagnement personnalisé<p>
   		</div>
   		<div class="picto-offre col s12 m12 l4 center-align">
-				<img class="responsive-img" src="assets/img/picto-pig-tape.png" alt=""  >
+				<img src="assets/img/picto-pig-tape.png" alt=""  >
 				<p>Un budget maîtrisé<p>
   		</div>
   		<div id="call-to-action" class="col s12 ">
-         <!--<div class="col s12 m12 l12 center-align">
-          	<p>A partir de 299 € ht.</p>
-          </div>-->
           <div class="div-cta">
             <a href="offre.php" ><button class="btn cta scrollTo" type="button" name="button">J'ai besoin de ça !</button></a>
           </div>

@@ -6,7 +6,7 @@
 					</div>
 					<div class="card-content ">
 					<ul class="browser-default">
-						<li><a href="TinySite"> Une landing-page au design actuel avec toutes vos infos importantes</a></li>
+						<li><a href="http://tinysite.cooldev.xyz" target="_blank" > Une landing-page au design actuel avec toutes vos infos importantes</a></li>
 						<li>Le nom de domaine en .fr pendant 1 an</li>
 						<li>L'hébergement pendant 1 an</li>	
 								
@@ -25,7 +25,7 @@
 					</div>
 					<div class="card-content ">
 						<ul class="browser-default">
-						<li><a href="TinySite"> Une landing-page au design actuel avec toutes vos infos importantes</a></li>
+						<li><a href="http://tinysite.cooldev.xyz" target="_blank" > Une landing-page au design actuel avec toutes vos infos importantes</a></li>
 						<li>Le nom de domaine en .fr pendant 1 an</li>
 						<li>L'hébergement pendant 1 an</li>	
 						<li>2 <a href="formation-web.php" target="_blank">formations individuelles</a> au choix</li>
