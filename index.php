@@ -62,20 +62,20 @@
   <!---*************************************OFFRE******************************** -->
 
 <section id="offre">
-	<div class="container">
+	
 	<h2 class="center-align">Nous accompagnons les entreprises dans leur <br>présence numérique.</h2>
 
   	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
-				<img src="assets/img/picto-puzzle-tape.png"  alt=""  >
+				<img src="assets/img/picto-puzzle-tape.png"  alt="illustration approche globale"  >
 				<p>Une approche globale<p>
   		</div>
   		<div class="picto-offre col s12 m12 l4 center-align">
-				<img src="assets/img/picto-coop-tape.png"  alt=""   >
+				<img src="assets/img/picto-coop-tape.png"  alt="illustration accompagnement personnalisé"   >
 				<p>Un accompagnement personnalisé<p>
   		</div>
   		<div class="picto-offre col s12 m12 l4 center-align">
-				<img src="assets/img/picto-pig-tape.png" alt=""  >
+				<img src="assets/img/picto-pig-tape.png" alt="illustration budget maitrisé"  >
 				<p>Un budget maîtrisé<p>
   		</div>
   		<div id="call-to-action" class="col s12 ">
@@ -85,7 +85,7 @@
       </div>
        <div class="separator col s8 offset-s2 divider"></div>
 	</div>
-	</div>
+
 </section>
 
   <!-- *************************************MOTTO******************************** -->
@@ -94,9 +94,7 @@
  <div class="container">
         <div id="motto">
 		  <div class="title col s12">
-		  		<h2 class="center-align">
-				Notre motivation, c'est vous !</h2>
-
+		  		<h2 class="center-align">Notre motivation, c'est vous !</h2>
 			</div>
 			<div class="row">
 			<div class="center-align col s12"><i id="illustration" style="color:#F92AC2;" class="center-align material-icons medium">favorite_border</i></div>
@@ -203,101 +201,16 @@ En diminuant le temps de développement, <mark>nous pouvons rendre abordable ce 
 	</div>
 </section>
 <!-- *************************************CONTACT******************************** -->
-<div id="section-contact">
-<div class="row">
-<div class="separator col s8 offset-s2 divider"></div>
-</div>
-	<div class="container">
-		  <div id="discuss" class="row">
-				<div class="title col s12">
-					<h2 class="center-align">
-					 Parlons-en !</h2>
-				<div class="row">
-					<div class="center-align col s12">
-						<i id="illustration" style="color: #F92AC2;" class="material-icons medium">question_answer</i>
-					</div>
-				</div>
-				</div>
-        </div>
-
-        <div class="divContact row" id="scrollContact">
-          <h3 class="col s12 m12 l12">Une idée, un projet, un message ?<br/>C'est à vous !</h3>
-          <form class="col s12" id="contact" action="#contact" method="POST">
-            <div class="markup input-field col s12 m12 l12">
-              <i class="material-icons small prefix">account_box</i>
-              <input class="validate" type="text" name="nom" placeholder="Votre nom" required>
-            </div>
-            <div class="markup input-field col s12 m12 l12">
-              <i class="material-icons small prefix">email</i>
-              <input class="validate" type="email" name="email" placeholder="Votre email" required>
-            </div>
-            <div class="markup input-field col s12 m12 l12">
-              <i class="material-icons small prefix">subject</i>
-              <input class="validate" type="text" name="objet" placeholder="Objet" required>
-            </div>
-            <div class="tape input-field col s12 m12 l12">
-              <i class="material-icons small prefix">mode_edit</i>
-              <textarea class="materialize-textarea" name="message" rows="5" placeholder="Votre message" required></textarea>
-            </div>
-            <div class="col s12 l4 offset-l4">
-              <button class="btn cta center-align col btn cta center-align col s6 offset-s3 l12" type="submit" name="submit">Hop !</button>
-            </div>
-          </form>
-          <?php if($feedback) {
-            ?>
-            <div class="feedback col s10 offset-s1 center-align">
-              <?php echo $feedback; ?>
-            </div>
-            <?php
-          } ?>
-        </div>
-        <div class="fixed-action-btn">
-    	<div id="up">
-			<a data-target="#topScroll" style="background-color: #00101a;" class="btn-floating center-align scrollTo" href="#topScroll"><img src="assets/img/arrow-up.png" alt=""></a>
-    	</div>
-    	</div>
-    	</div>
-   </div>
-
-      <footer>
-      	 <div class="row no-margin-bottom">
-            <div id="heart" class= "col s12 m3 center-align ">
-            <a href="#" title="Site réalisé avec amour par l'équipe cooldev.xyz"> <img src="assets/img/logojaune.png" width="40px;" ></a>
-            </div>
-            <div class= "col s12 m3 center-align">
-              <a class="waves-effect waves-teal btn-flat" href="mailto:hello@cooldev.xyz">Hello[@]cooldev.xyz</a>
-            </div>
-            <div class= "col s12 m3 center-align">
-              <!-- Modal -->
-              <a class="modal-trigger waves-effect waves-teal btn-flat" href="#modal1">Mentions légales</a>
-              <div id="modal1" class="modal modal-fixed-footer">
-                <div class="modal-content">
-                  <h3>SIRET</h3>
-                  <p>Sous CAPE Cosens <br>SIRET : 419 369 798 00048<br>N° Formateur : 93 13 113 41 13</p>
-                  <h3>Hébergement :</h3>
-                  <p>GANDI SAS, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 . Ce dernier est en possession des coordonées de l'éditeur et du responsable de la publication (merci gandi!)</p>
-                  <h3>Gestion des données personnelles :</h3>
-                  <p>Votre vie privée est très importante pour nous. Pour connaître le trafic sur ce site internet, Nous utilisons Piwik. Piwik est une solution d’analytics qui respecte votre vie privée conformément aux recommandations de la CNIL et ne demande aucune déclaration préalable.</p>
-                  <iframe class="col s12" style="border: 0;" src="http://analytics.mpaw.xyz/piwik/index.php?module=CoreAdminHome&action=optOut&language=fr"></iframe>
-                </div>
-                <div class="modal-footer ">
-                  <a href="#!" class="modal-action modal-close btn-floating "><i class="material-icons ">highlight_off</i></a>
-                </div>
-              </div>
-             </div>
-                <div id= "social" class= "col s12 m3 center-align">
-                  <a href="https://www.facebook.com/cooldevcrew/" target=_blank ><img src="assets/img/facebook.png" alt="Suivez-nous sur Facebook"></a>
-                  <a href="https://twitter.com/cooldev_crew/" target=_blank ><img src="assets/img/twitter.png" alt="Suivez-nous sur Twitter"></a>
-                </div>
-            </div>
-
-      </footer>
-      <script
-  			  src="https://code.jquery.com/jquery-3.2.1.min.js"
-  			  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  			  crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js" defer></script>
-      <script type="text/javascript" src="assets/js/main.js"></script>
+<?php
+	include('private/view/contact-form.php');
+?>
+<?php
+	include('private/view/arrow.php');
+?>
+<!-- *************************************FOOTER******************************** -->
+<?php
+	include('private/view/footer.php');
+?>
   </body>
 
 </html>

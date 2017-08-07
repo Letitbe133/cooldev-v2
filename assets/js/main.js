@@ -48,7 +48,7 @@ $(function(){
 
  function getHeights(){
 
- $('.card-content').each(function(){
+ $('.offer-content').each(function(){
    heights.push($(this).outerHeight());
  })
  return heights;
@@ -65,7 +65,7 @@ $(function(){
  console.log(max);
 
  if($(window).outerWidth() > 360) {
-   $('.card-content').each(function(){
+   $('.offer-content').each(function(){
      $(this).css('height', max);
    })
  }

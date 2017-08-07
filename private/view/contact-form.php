@@ -17,15 +17,15 @@
         <div class="divContact row" id="scrollContact">
           <h3 class="col s12 m12 l12">Une idée, un projet, un message ?<br/>C'est à vous !</h3>
           <form class="col s12" id="contact" action="#contact" method="POST">
-            <div class="markup input-field col s12 m12 l12">
+            <div class="tape input-field col s12 m12 l12">
               <i class="material-icons small prefix">account_box</i>
               <input class="validate" type="text" name="nom" placeholder="Votre nom">
             </div>
-            <div class="markup input-field col s12 m12 l12">
+            <div class="tape input-field col s12 m12 l12">
               <i class="material-icons small prefix">email</i>
               <input class="validate" type="email" name="email" placeholder="Votre email">
             </div>
-            <div class="markup input-field col s12 m12 l12">
+            <div class="tape input-field col s12 m12 l12">
               <i class="material-icons small prefix">subject</i>
               <input class="validate" type="text" name="objet" placeholder="Objet">
             </div>
