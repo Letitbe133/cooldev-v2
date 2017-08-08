@@ -26,10 +26,10 @@
 <header class="row valign-wrapper">
 		<div id="header" class="container center-align">
 		<div class="col s12 m12 l12">
-			<img src="assets/img/picto-puzzle.png" width="200px" alt="" />
+			<img src="assets/img/picto-puzzle.png" width="100px" alt="" />
 			<h1>Découvrez le fruit de nos collaborations</h1>
 			<p class="tape col s6 offset-s3 m4 offset-m4 ">Histoires vraies</p>
-	       <div class="col s12 center-align"><img data-target="#works" class="scrollTo " src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>
+	       <div class="col s12 center-align"><img data-target="#works" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
 
 			</div>
     	</div>
@@ -41,7 +41,7 @@
           <div class="col s12 m4 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-yarnover.png" alt="">
+               <img  class="activator" src="assets/img/works/work-yarnover.png" alt="screenshot yarnover.xyz">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Yarn Over<i class="material-icons right">more_vert</i></h3>
@@ -58,7 +58,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-					<img  class="activator" src="assets/img/works/work-timoun.png" alt="">
+					<img  class="activator" src="assets/img/works/work-timoun.png" alt="screenshot timoun">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Ti'moun<i class="material-icons right">more_vert</i></h3>
@@ -75,7 +75,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-              <img class="activator" src="assets/img/works/work-medilab.png">
+              <img class="activator" src="assets/img/works/work-medilab.png" alt="screenshot medilab">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Medilab<i class="material-icons right ">more_vert</i></h3>
@@ -98,7 +98,7 @@
           <div class="col s12 m4 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-fabdd.png" alt="">
+               <img  class="activator" src="assets/img/works/work-fabdd.png" alt="scrennshot fab de dédé">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Le Fab de DéDé<i class="material-icons right">more_vert</i></h3>
@@ -115,7 +115,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-					<img  class="activator"  src="assets/img/works/work-naturopathe.png" alt="">
+					<img  class="activator"  src="assets/img/works/work-naturopathe.png" alt="screenshot naturopathe">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Myriam Meyer-Naturopathe<i class="material-icons right">more_vert</i></h3>
@@ -132,7 +132,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-              <img class="activator" src="assets/img/works/work-with-you.png">
+              <img class="activator" src="assets/img/works/work-with-you.png" alt="we love work with you ">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Avec plaisir !<i class="material-icons right ">more_vert</i></h3>

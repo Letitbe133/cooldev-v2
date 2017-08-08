@@ -1,7 +1,7 @@
 <div id="topScroll" class="navbar-fixed">
 		<nav>
           <div class="nav-wrapper">
-              <a data-target="#" class="scrollTo" href="index.php"class="brand-logo left"><img class="responsive-img" src="assets/img/logo-v2.png" alt="logo cooldev" ></a>
+              <a data-target="#" class="scrollTo" href="index.php" class="brand-logo left"><img class="responsive-img" id="logo-cooldev" src="assets/img/logo-v2.png" alt="logo cooldev" ></a>
            
       	
       		<a class="social" href="https://www.facebook.com/cooldevcrew/" target=_blank ><img src="assets/img/facebook.png" alt="Suivez-nous sur Facebook"></a>

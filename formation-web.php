@@ -29,7 +29,7 @@
 			<img src="assets/img/school-dev.png" width="200px" alt="" />
 			<h1>Formations web individuelles</h1>
 			<p class="col s6 offset-s3 m4 offset-m4 tape">Devenez autonome !</p>
-			<div class="col s12 center-align"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>
+			<div class="col s12 center-align"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
 
 			</div>
     	</div>
@@ -48,7 +48,7 @@
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Débuter sur Facebook : Créer et gérer une Page Facebook</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Débuter sur Facebook : Créer et gérer une Page Facebook</h3></div>
                 <div class="collapsible-body">
                 	<h4>Vous apprendrez à : </h4>
                 	<ul class="browser-default school-content">
@@ -62,7 +62,7 @@
 					</div>
               </li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Débuter sur Twitter : Créer et gérer un compte Twitter</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Débuter sur Twitter : Créer et gérer un compte Twitter</h3></div>
                 <div class="collapsible-body">
                 	<h4>Vous apprendrez à : </h4>
                 	<ul class="browser-default school-content">
@@ -75,11 +75,7 @@
 						</ul>
 					</div>
                 </li>
-              <!--<li>
-                <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>-->
-            </ul>
+           </ul>
           </div>
 </div>
 <div class="row"><!-- ******************************************* small business ***************************** -->
@@ -90,7 +86,7 @@
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Google My Business</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Google My Business</h3></div>
                 <div class="collapsible-body">
                 	<h4>Pendant cette formation pratique, vous allez: </h4>
                 	<ul class="browser-default school-content">
@@ -105,7 +101,7 @@
 					</div>
               </li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Vendre en ligne : la boutique Facebook</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Vendre en ligne : la boutique Facebook</h3></div>
                 <div class="collapsible-body">
                   <h4>Pendant cette formation pratique, nous allons voir : </h4>
                 	<ul class="browser-default school-content">
@@ -116,10 +112,7 @@
 						</ul>
 					</div>
                 </li>
-              <!--<li>
-                <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>-->
+
             </ul>
           </div>
 </div>
@@ -131,7 +124,7 @@
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
             <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Installer wordpress</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Installer wordpress</h3></div>
                 <div class="collapsible-body">
                 <h4>Envie d'être autonome ? Vous avez besoin d'un petit coup de pouce pour vous lancer ? Nous vous guiderons dans : </h4>
                 	<ul class="browser-default school-content">
@@ -140,7 +133,7 @@
                 </div>
                 </li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Prendre en mains Wordpress</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Prendre en mains Wordpress</h3></div>
                 <div class="collapsible-body">
                 	<h4></h4>
                 	<ul class="browser-default school-content">
@@ -154,7 +147,7 @@
                 </div>
               </li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Rédiger/publier un article</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Rédiger/publier un article</h3></div>
                 <div class="collapsible-body">
                 <h4>Pour blogger , il vous faudra savoir : </h4>
                 	<ul class="browser-default school-content">
@@ -168,10 +161,6 @@
                 
                 </div>
                 </li>
-              <!--<li>
-                <div class="collapsible-header active"><i class="material-icons">whatshot</i><h2>Images</h2></div>
-                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
-              </li>-->
             </ul>
           </div>
 </div>
@@ -183,25 +172,15 @@
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Canva : créer des visuels pour les réseaux sociaux</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Canva : créer des visuels pour les réseaux sociaux</h3></div>
                 <div class="collapsible-body">
                 	<h4>Le logiciel en ligne Canva vous permet de réaliser toutes sortes de visuels pour le web. Vous saurez tout sur canva après cette formation ! </h4>
                 	<ul class="browser-default school-content">
-                		<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
+                	</ul>
 					</div>
               </li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Inkscape : s'initier au dessin vectoriel</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Inkscape : s'initier au dessin vectoriel</h3></div>
                 <div class="collapsible-body">
                 <h4>Découvrez comment : </h4>
                 	<ul class="browser-default school-content">
@@ -213,7 +192,7 @@
 					</div>
 					</li>
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Gimp : les bases de la retouches d'images</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Gimp : les bases de la retouches d'images</h3></div>
                 <div class="collapsible-body"><h4>Découvrez comment : </h4>
                 	<ul class="browser-default school-content">
                 		<li>Télécharger et installer Gimp, logiciel libre et gratuit de traitement d'image</li>
@@ -235,7 +214,7 @@
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>Nom de domaine et hébergement</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Nom de domaine et hébergement</h3></div>
                 <div class="collapsible-body">
                 	<h4>Envie d'être autonome ? Vous avez besoin d'un petit coup de pouce pour vous lancer ? Nous vous guiderons dans : </h4>
                 	<ul class="browser-default school-content">
@@ -249,7 +228,7 @@
               </li>
               
              <li>
-                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt=""/>CSS / HTML5 : les bases</h3></div>
+                <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>CSS / HTML5 : les bases</h3></div>
                 <div class="collapsible-body"><h4>Envie d'être autonome ? Découvrez les bases </h4>
                 	<ul class="browser-default school-content">
                 		<li>Du langage HTML</li>

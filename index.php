@@ -47,14 +47,23 @@
 <?php
 	include('private/view/nav.php');
 ?>
-	<header class="row valign-wrapper">
-		<div id="header" class="container center-align">
-		<div class="col s12 m12 l12">
-					<h1>Faites grandir vos idées <br>grâce au web </h1>
+	<header>
+		<div class="row" id="header">
+		<div class="col s12 center-align ">
+					<img src="assets/img/picto-responsive.png" alt="illustration device">
+					
+					<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
 					<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>
-                <div class="col s12 center-align"><img data-target="#offre" class="scrollTo " src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>
+					
+					<!--<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>-->
+                
       </div>
+     
+
+ 
+		<div class="col s12 center-align"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    
     </div>
+   
     <div class="overlay"></div>
 	</header>
 

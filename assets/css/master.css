@@ -173,9 +173,9 @@ nav {
 	opacity: 1;
 
 }
-
-nav .brand-logo{
-	padding: 15px;
+#logo-cooldev {
+	padding-top: 10px;
+	padding-left: 10px;
 }
 
 nav ul {
@@ -232,8 +232,22 @@ nav ul a {
   .cta:hover {
     box-shadow: 0rem 0rem 0rem #FFFD10;
   }
+/*******************HEADER**************************** */
 #up {
   display: none;
+}
+#header h1 {
+	letter-spacing: 3px;
+}
+#header h2 {
+	letter-spacing: 3px;
+	line-height: 30px;
+}
+#header {
+	padding-top: 10vh;
+}
+.tape h2 {
+	padding: 20px;
 }
   /************************************************** */
   .div-cta {
