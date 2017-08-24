@@ -23,28 +23,24 @@
 <?php
 	include('private/view/nav.php');
 ?>
-<header class="row valign-wrapper">
+	<header class="row valign-wrapper">
 		<div id="header" class="container center-align">
-		<div class="col s12 m12 l12">
-			<img src="assets/img/school-dev.png" width="200px" alt="" />
-			<h1>Formations web individuelles</h1>
-			<p class="col s6 offset-s3 m4 offset-m4 tape">Devenez autonome !</p>
-			<div class="col s12 center-align"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
+			<div class="col s12 m12 l12">
+				<img src="assets/img/school-dev.png" width="200px" alt="" />
+				<h1>Formations web individuelles</h1>
+				<p class="col s6 offset-s3 m4 offset-m4 tape">Devenez autonome !</p>
+				<div class="col s12 center-align"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
+				</div>
+	    </div><!--#HEADER-->
+	    <div class="overlay"></div>
+	</header><!--HEADER-->
 
-			</div>
-    	</div>
-    	<div class="overlay"></div>
-</header>
-
-
-
-<div class="section-offre">
-<div class="container" id="school">
-<div class="row"><!--************************************* formation reseaux ******************* -->
+	<section class="section-offre">
+		<div class="container" id="school">
+			<div class="row">
 			<div class="col s12">
 				<h2>Se former aux réseaux sociaux</h2>
-			</div>
-
+			</div><!--TITLE-->
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
@@ -60,7 +56,7 @@
                 		<li>Animer sa page</li>
 						</ul>
 					</div>
-              </li>
+              </li><!--FACEBOOK-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Débuter sur Twitter : Créer et gérer un compte Twitter</h3></div>
                 <div class="collapsible-body">
@@ -74,15 +70,14 @@
                 		<li>Animer sa page</li>
 						</ul>
 					</div>
-                </li>
+              </li><!--TWITTER-->
            </ul>
-          </div>
-</div>
-<div class="row"><!-- ******************************************* small business ***************************** -->
+          </div><!--COLLAPSIBLE-->
+			</div><!--FORMATION RESEAU-->
+		<div class="row">
 			<div class="col s12">
 				<h2>Spécial Small Business</h2>
-			</div>
-
+			</div><!--TITLE-->
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
@@ -99,7 +94,7 @@
 							<li>Découvrir l'application mobile Google My Business</li>
 						</ul>
 					</div>
-              </li>
+              </li><!--GOOGLE MY BUSINESS-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Vendre en ligne : la boutique Facebook</h3></div>
                 <div class="collapsible-body">
@@ -111,27 +106,24 @@
 							<li>Comment faire la promotion de votre boutique Facebook</li>
 						</ul>
 					</div>
-                </li>
-
+              </li><!--BOUTIQUE FACEBOOK-->
             </ul>
-          </div>
-</div>
-<div class="row"><!-- ************************************** formation wordpress ************************** -->
+          </div><!--COLLABSIBLE-->
+			</div><!--SMALL BUSINESS-->
+			<div class="row">
 			<div class="col s12">
 				<h2>Se former sur Wordpress</h2>
-			</div>
-
+			</div><!--TITLE-->
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
-            <li>
+            	<li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Installer wordpress</h3></div>
                 <div class="collapsible-body">
                 <h4>Envie d'être autonome ? Vous avez besoin d'un petit coup de pouce pour vous lancer ? Nous vous guiderons dans : </h4>
                 	<ul class="browser-default school-content">
                 		<li>L'installation et le paramétrage de wordpress sur votre hébergement</li>
-							
-                </div>
-                </li>
+					</div>
+               </li><!--INSTALLER WORDPRESS-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Prendre en mains Wordpress</h3></div>
                 <div class="collapsible-body">
@@ -142,10 +134,9 @@
                 		<li>Créer des catégories et des pages</li>
                 		<li>Gérer les menus</li>
 							<li>Garder Wordpress et les plugins à jour</li>
-						</ul>
-                
+						</ul>                
                 </div>
-              </li>
+              </li><!--PRENDRE EN MAIN WORDPRESS-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Rédiger/publier un article</h3></div>
                 <div class="collapsible-body">
@@ -157,18 +148,16 @@
                 		<li>Optimiser votre référencement grâce au pluggin Yoast</li>
                 		<li>Gérer les commentaires</li>
                 		<li>Editer et modifier un article</li>
-						</ul>
-                
+						</ul>                
                 </div>
-                </li>
+                </li><!--REDIGER ARTICLE-->
             </ul>
-          </div>
-</div>
-<div class="row"><!-- ************************************************* formation image **************************** -->
+          </div><!--COLLABSIBLE-->
+			</div><!--WORDPRESS-->
+			<div class="row">
 			<div class="col s12">
 				<h2>Créer des images pour le web</h2>
-			</div>
-
+			</div><!--TITLE-->
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
@@ -178,7 +167,7 @@
                 	<ul class="browser-default school-content">
                 	</ul>
 					</div>
-              </li>
+              </li><!--CANVA-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Inkscape : s'initier au dessin vectoriel</h3></div>
                 <div class="collapsible-body">
@@ -190,7 +179,7 @@
 							<li>Exporter au format .png vos réalisations</li>
 						</ul>
 					</div>
-					</li>
+					</li><!--INKSCAPE-->
               <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>Gimp : les bases de la retouches d'images</h3></div>
                 <div class="collapsible-body"><h4>Découvrez comment : </h4>
@@ -202,15 +191,14 @@
 							<li>Exporter vos réalisations</li>
 						</ul>
 					</div>
-					</li>
+					</li><!--GIMP-->
             </ul>
-          </div>
-</div>
-<div class="row"><!-- ******************************************* formation web *************************** -->
+          </div><!--COLLABSIBLE-->
+			</div><!--FORMATION IMAGE-->
+			<div class="row">
 			<div class="col s12">
 				<h2>La face cachée du web</h2>
-			</div>
-
+			</div><!--TITLE-->
           <div class="col s12 ">
             <ul class="collapsible" data-collapsible="expandable">
               <li>
@@ -225,8 +213,7 @@
 							<li>Lier votre nom de domaine à votre hébergement</li>
 							<li></li>
                 </div>
-              </li>
-              
+              </li><!--NND-->              
              <li>
                 <div class="collapsible-header"><h3><img class="no-padding-bottom responsive-img" src="assets/img/arrow-right.png" alt="-->"/>CSS / HTML5 : les bases</h3></div>
                 <div class="collapsible-body"><h4>Envie d'être autonome ? Découvrez les bases </h4>
@@ -235,12 +222,12 @@
                 		<li>Du langage CSS3</li>
 							<p>Nous adaptons cette formation à vos besoins, n'hésitez pas à nous faire part de votre projet</p>
                 </div>
-             </li>
+             </li><!--CSS HTML-->
             </ul>
-          </div>
-</div>
-</div>
-</div>
+          </div><!--COLLABSIBLE-->
+			</div><!--FORMATION WEB-->
+		</div>
+	</section><!--SECTION-OFFRE-->
 <?php
 	include('private/view/contact-form.php');
 ?>
