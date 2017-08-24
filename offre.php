@@ -86,7 +86,7 @@
 				<h2>Un budget maîtrisé</h2>
 				<h3>Un pas après l'autre.  Commencez maintenant et faites évoluer votre communication avec vos premiers clients </h3>
 			</div>
-			<p><img class="float right" src="assets/img/picto-perso.png" alt="illustration site vitrine evolutif" width="150px">Nous vous accompagnons dès de le debut de votre aventure entrepreneuriale. <span class="">Commencez petit et faites évoluer votre communication</span> en même temps que votre business. Ajoutez des pages à votre site vitrine, démarrer un blog, être présent sur un nouveau réseau social sont des pas que vous pouvez réaliser quand vous avez validé votre projet.<br> Pour rendre le tout abordable pour les porteurs de projets, <span class="">nous vous avons concocté des offres au plus proche de vos besoins </span>: </p>
+			<p><img class="float right" src="assets/img/picto-perso.png" alt="illustration site vitrine evolutif" width="150px">Nous vous accompagnons dès de le debut de votre aventure entrepreneuriale. <span class="">Commencez petit et faites évoluer votre communication</span> en même temps que votre business. Ajouter des pages à votre site vitrine, démarrer un blog, être présent sur un nouveau réseau social sont des pas que vous pouvez réaliser quand vous avez validé votre projet.<br> Pour rendre le tout abordable pour les porteurs de projets, <span class="">nous vous avons concocté des offres au plus proche de vos besoins </span>: </p>
 			</div>
 
 

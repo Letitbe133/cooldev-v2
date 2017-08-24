@@ -64,11 +64,7 @@ header h1{
 	font-weight: 900;
 	color: white;
 	text-rendering: optimizeLegibility;
-	/*background-image: url("../img/masking-tape-yellow.png");
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-size: 100% 100%;*/
-   
+  
 }
 header h2{
 	font-size: 1.7rem;
@@ -99,9 +95,6 @@ header h2{
     background-size: 100% 100%;
     color:#00101a;
     padding: 5px;
-  
-   
-
 }
 
 h1{
@@ -135,6 +128,9 @@ p{
    font-weight: 200;
    font-size: 2rem;
 
+}
+.mini {
+	font-size: 1.5rem;
 }
 .material-icons{
 	
@@ -338,7 +334,7 @@ nav ul a {
 	font-size: 3rem;
 }
 /*****************************************TESTIMONIAL******************************************/
-.section-testimonial {
+#section-testimonial {
 	background-color:white ;
 }
 #testimonial {
@@ -480,12 +476,8 @@ padding: 20px!important;
 
 }
 .header-light {
-	/*padding-left: 25px;*/
 	padding-top:50px!important;
-	
 	background-color: white;
-
-
 }
 .header-light h1{
 	font-size: 2.5rem!important;
@@ -493,24 +485,19 @@ padding: 20px!important;
 	text-transform: uppercase;
 	font-weight: 300;
 	background-image: none;
-	
 	padding-top: 0px;
 	text-shadow:none;
-
 }
 
 #school h3{
 	font-size: 2rem;
 	color: grey;
 }
- .school-content ul {
-
- }
  
- .works p{
+.works p{
 	color:#00101A; 
  }
- .works h1, h2, h3, h4 {
+.works h1, h2, h3, h4 {
 	color:grey; 
  }
 /************************************************************************************/
@@ -607,6 +594,12 @@ footer {
 }
 .no-padding-bottom {
 	padding-bottom: 0!important;
+}
+.no-margin-top {
+	margin-top:0!important;
+}
+.no-padding-top {
+	padding-top: 0!important;
 }
 #heart a {
 	cursor:url("../img/heart.png"), auto;
