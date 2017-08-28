@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 	 <meta name="google-site-verification" content="rBRnpj5XSqUqYyI27OQ52hRYjk1PkW2Z1i3E9ces7oE" />
-    <meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, présence numérique" />
+    <meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, présence numérique, porteurs de projets, création d'entreprise" />
     <meta name="description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
@@ -50,7 +50,7 @@
 		<div class="row" id="header">
 			<div class="col s12 center-align ">
 						<img src="assets/img/picto-responsive.png" alt="illustration device">						
-						<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
+						<h1 class="">Faîtes grandir vos idées <br>grâce au web </h1>
 						<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>
 			</div>
 			<div class="col s12 center-align"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    
@@ -93,7 +93,7 @@
 				</div>        
           </div><!--MOTTO TITLE-->
         <div class="col s12">
-          <p>Nous avons construit une offre pour les porteurs de projet. Pourquoi ? Parce que vous accompagner dans le développement de votre activité nous passionne. Nous avons beaucoup d'admiration pour ceux et celles qui ont le courage de créer leur entreprise, leur emploi et nous savons qu'au debut de cette aventure, vous avez peu de moyens et pouvez vous sentir perdu au sujet de la <strong>création de votre site web</strong>.</p>
+          <p>Nous avons construit une offre pour les porteurs de projets. Pourquoi ? Parce que vous accompagner dans le développement de votre activité nous passionne. Nous avons beaucoup d'admiration pour ceux et celles qui ont le courage de créer leur entreprise, leur emploi et nous savons qu'au début de cette aventure, vous avez peu de moyens et pouvez vous sentir perdu au sujet de la <strong>création de votre site web</strong>.</p>
 		  </div><!--MOTTO-->
 		  <div class="col s12">
             <ul class="collapsible z-depth-0" data-collapsible="accordion">

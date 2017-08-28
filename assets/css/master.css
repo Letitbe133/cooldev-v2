@@ -59,9 +59,9 @@ header img:hover {
 }
 header h1{
 	font-size: 3rem!important;
-	text-transform: uppercase;
+	/**text-transform: uppercase;**/
 	text-shadow: 2px 3px 0px  rgba(0,0,0, 0.2);
-	font-weight: 900;
+	font-weight: 300;
 	color: white;
 	text-rendering: optimizeLegibility;
   

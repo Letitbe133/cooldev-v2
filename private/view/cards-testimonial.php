@@ -15,7 +15,7 @@
 	    </div>
 	    <div class="card-reveal">
 	      <span class="card-title grey-text text-darken-4">Principales caractéristiques<i class="material-icons right">close</i></span>
-	      <p>La plus créative et la moins têtue des deux. Seriale entrepreneuse, elle connait bien les problèmatiques des <strong>porteurs de projets </strong>! Son alimentation à base de cookies (recette disponible sur simple demande) et de jus de carottes est le secret de son empathie <3 </p>
+	      <p>La plus créative et la moins têtue des deux. Seriale entrepreneuse, elle connait bien les problématiques des <strong>porteurs de projets </strong>! Son alimentation à base de cookies (recette disponible sur simple demande) et de jus de carottes est le secret de son empathie <3 </p>
 	    </div>
 	  </div>
 	</div>
