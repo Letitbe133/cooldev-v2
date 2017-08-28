@@ -65,7 +65,7 @@
                 		<li>Créer un compte Twitter</li>
                 		<li>Configurer un compte Twitter</li>
                 		<li>Comprendre et utiliser le langage et les usages du réseau social Twitter</li>
-                		<li>Publier vos premiers Tweet</li>
+                		<li>Publier vos premiers Tweets</li>
                 		<li>Comprendre le module d’analyse des statistiques Twitter </li>
                 		<li>Animer sa page</li>
 						</ul>

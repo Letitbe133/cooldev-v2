@@ -14,7 +14,7 @@
 				    <li><a class="tape scrollTo" href="offre.php">/ Ce qu'on peut faire ensemble</a></li>
 				    <li><a href="formation-web.php" class="tape">/ SchoolDev</a></li>
                 <li><a class="tape scrollTo" href="works.php">/ Histoires vraies</a></li>
-                <li><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">/ On s'appelle ?</a></li>
+                <li><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">/ On en parle ?</a></li>
                 
 
               </ul>
@@ -22,7 +22,7 @@
 	           	  <li><a class="tape " href="offre.php">/ Offre</a></li>
 	           	  <li><a href="formation-web.php" class="tape">/ SchoolDev</a></li>
 	              <li><a class="tape scrollTo" href="works.php">/ Histoires vraies</a></li>
-	              <li><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">/ Contact</a></li>
+	              <li><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">/ On en parle ?</a></li>
 	              
             	</ul>
             	

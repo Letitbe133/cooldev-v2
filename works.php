@@ -27,7 +27,7 @@
 		<div id="header" class="container center-align">
 		<div class="col s12 m12 l12">
 			<img src="assets/img/picto-puzzle.png" width="100px" alt="" />
-			<h1>Découvrez le fruit de nos collaborations</h1>
+			<h1>Ils nous ont choisis</h1>
 			<p class="tape col s6 offset-s3 m4 offset-m4 ">Histoires vraies</p>
 	       <div class="col s12 center-align"><img data-target="#works" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
 
@@ -35,7 +35,7 @@
     	</div>
     	<div class="overlay"></div>
 </header>
-<div class="row works">
+<div class="row works" id="works">
 
         <div id="cards" class="col s12 l10 offset-l1">
           <div class="col s12 m4 ">
@@ -68,7 +68,7 @@
               <h5>Association loi 1901</h5>
               <p>Pour la promotion d'une parentalité positive</p>
               <p>___</p>
-              <p>Réalisation d'un <a href="tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle, création d'une page facebook</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle, création d'une page facebook</p>
               </div>
           </div>
         </div>
@@ -125,7 +125,7 @@
               <h5>Naturopathe-réflexologue</h5>
               <p>Consultations sur rendez-vous de naturopathie dans le Var</p>
               <p>___</p>
-              <p>Réalisation d'un <a href="tinysite.cooldev.xyz" target="_blank"> TinySite</a>, formation facebook</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, formation facebook</p>
               </div>
           </div>
         </div>

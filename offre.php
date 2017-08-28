@@ -41,7 +41,7 @@
 				<img class="center-align" src="assets/img/picto-puzzle-tape.png" alt="illustration approche globale" width="150px">
 				<h2>Une approche globale</h2>
 				<h3>Apporter de la cohérence dans votre communication digitale pour maximiser son efficacité</h3>
-				<p>Qui dit communication digitale, dit site web. Mais un site web sans visiteurs ne vous aidera pas à atteindre vos objectifs. Nous vous aidons dans la conception de votre stratégie de communication sur le web. Du site web aux réseaux sociaux, nous mettons tout en oeuvre pour rendre votre communication efficace.</p>
+				<p>Qui dit communication digitale, dit site web. Mais un site web sans visiteurs ne vous aidera pas à atteindre vos objectifs. Nous vous aidons dans la conception de votre stratégie de communication sur le web. Du site internet aux réseaux sociaux, nous mettons tout en oeuvre pour rendre votre communication efficace.</p>
 					<div class="row ">
   						<div class="col s12  ">
     						<div class="card-panel">
@@ -61,7 +61,7 @@
 			<div class="row no-margin-bottom">
 				<img class="center align" src="assets/img/picto-coop-tape.png" alt="illustration accompagnement personalisé" width="150px">
 				<h2>Un accompagnement personnalisé</h2>
-				<h3>Vous aider à monter en compétence pour obtenir les meilleurs résultats </h3>
+				<h3>Vous aider à monter en compétences pour obtenir les meilleurs résultats </h3>
 				<p>Les besoins en terme de communication ne sont pas les mêmes pour tous. Nous vous proposons <span class="">des formations individuelles aux réseaux sociaux et à la maintenance de votre site web en fonction de votre niveau.</span> </p>
 					<div class="row ">
   						<div class="col s12 m12 center-align">
