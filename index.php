@@ -22,7 +22,7 @@
 	<meta property="og:url" content="http://www.cooldev.xyz">
 	<meta property="og:description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/img-og.jpg">
+	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/open-graph/og-cooldev.png">
 
 <!-- Piwik -->
 		<script type="text/javascript" defer>

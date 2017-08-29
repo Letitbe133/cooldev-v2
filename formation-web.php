@@ -173,7 +173,7 @@
                 <div class="collapsible-body">
                 <h4>Découvrez comment : </h4>
                 	<ul class="browser-default school-content">
-                		<li>Télécharger et installer Inscape, logiciel libre et gratuit de dessin vectoriel</li>
+                		<li>Télécharger et installer Inkscape, logiciel libre et gratuit de dessin vectoriel</li>
                 		<li>Demarrer avec Inkscape</li>
                 		<li>Réaliser des formes vectorielles simples</li>
 							<li>Exporter au format .png vos réalisations</li>
