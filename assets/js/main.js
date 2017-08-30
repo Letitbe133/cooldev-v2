@@ -43,32 +43,58 @@ $(function(){
      }
  });
 
-// Egalisation de la hauteur des cartes
- var heights = [];
-
- function getHeights(){
-
- $('.offer-content').each(function(){
-   heights.push($(this).outerHeight());
- })
- return heights;
- }
-
- function getMax(arr){
-   var maxHeight = Math.max(...arr);
-   return maxHeight;
-
- }
-
- getHeights();
- var max = getMax(heights);
- console.log(max);
-
- if($(window).outerWidth() > 360) {
-   $('.offer-content').each(function(){
-     $(this).css('height', max);
-   })
- }
-
+// // Egalisation de la hauteur des cartes
+//  var heights = [];
+//
+//  function getHeights(){
+//
+//  $('.offer-content').each(function(){
+//    heights.push($(this).outerHeight());
+//  })
+//  return heights;
+//  }
+//
+//  function getMax(arr){
+//    var maxHeight = Math.max(...arr);
+//    return maxHeight;
+//
+//  }
+//
+//  getHeights();
+//  var max = getMax(heights);
+//  console.log(max);
+//
+//  if($(window).outerWidth() > 360) {
+//    $('.offer-content').each(function(){
+//      $(this).css('height', max);
+//    })
+//  }
 
 })
+
+
+// égalisation des hauteurs de cartes
+
+let max;
+let selector;
+
+function getMaxHeight(target){
+  const heights = [];
+  selector.forEach(function(item){
+    heights.push(item.offsetHeight);
+  })
+  max = Math.max(...heights);
+  //console.log(max);
+}
+
+function setHeight(target) {
+  selector = document.querySelectorAll(target);
+  getMaxHeight(target);
+  selector.forEach(function(item) {
+    item.style.height = max + "px";
+  })
+}
+
+// Partie à modifier : taper le sélecteur css entre les guillemets
+// ex : #one .card sélectionne toutes les cartes de la section d'id one
+setHeight('.works .card');
