@@ -51,7 +51,8 @@
               <h5>Street artiste</h5>
               <p>Réalisation d'installations textiles en milieu urbain.
               <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle, création d'une page facebook</p>
+              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle, facebook</p>
+              <a href="http://www.yarnover.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
             </div>
           </div>
@@ -69,6 +70,7 @@
               <p>Pour la promotion d'une parentalité positive</p>
               <p>___</p>
               <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle, création d'une page facebook</p>
+					<a href="http://www.timoun.net" target="_blank"><i class="material-icons">&#xE89E;</i></a>              
               </div>
           </div>
         </div>
@@ -105,27 +107,29 @@
               </div>
 					<div class="card-reveal">
               <h4 class="card-title activator">Le Fab de DéDé<i class="material-icons right">close</i></h4>
-              <h5>micro-entreprise</h5>
+              <h5>Micro-entreprise</h5>
               <p>Atelier nomade de sensibilisation au développement durable</p>
               <p>___</p>
               <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle</p>
+              <a href="http://www.fab-développement-durable.fr/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
             </div>
           </div>
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-					<img  class="activator"  src="assets/img/works/work-naturopathe.png" alt="screenshot naturopathe">
+					<img  class="activator"  src="assets/img/works/work-take-that-stick.png" alt="screenshot naturopathe">
             </div>
             <div class="card-content">
-              <h3 class="card-title activator">Myriam Meyer-Naturopathe<i class="material-icons right">more_vert</i></h3>
+              <h3 class="card-title activator">Take that stick !<i class="material-icons right">more_vert</i></h3>
             </div>
             <div class="card-reveal">
-              <h4 class="card-title">Myriam Meyer<i class="material-icons right">close</i></h4>
-              <h5>Naturopathe-réflexologue</h5>
-              <p>Consultations sur rendez-vous de naturopathie dans le Var</p>
+              <h4 class="card-title">Take that stick !<i class="material-icons right">close</i></h4>
+              <h5>App Apple Store </h5>
+              <p>Jeu de patience sur iOS</p>
               <p>___</p>
-              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, formation facebook</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a> pour la présentation de l'app</p>
+              <a href="http://denis.hiezely.space" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
           </div>
         </div>
