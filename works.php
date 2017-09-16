@@ -41,7 +41,7 @@
           <div class="col s12 m4 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-yarnover.png" alt="screenshot yarnover.xyz">
+               <img  class="activator" src="assets/img/works/work-yarnover.jpg" alt="screenshot yarnover.xyz">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Yarn Over<i class="material-icons right">more_vert</i></h3>
@@ -59,7 +59,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-					<img  class="activator" src="assets/img/works/work-timoun.png" alt="screenshot timoun">
+					<img  class="activator" src="assets/img/works/work-timoun.jpg" alt="screenshot timoun">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Ti'moun<i class="material-icons right">more_vert</i></h3>
@@ -77,7 +77,7 @@
         <div class="col s12 m4 ">
           <div class="card">
             <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-              <img class="activator" src="assets/img/works/work-medilab.png" alt="screenshot medilab">
+              <img class="activator" src="assets/img/works/work-medilab.jpg" alt="screenshot medilab">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Medilab<i class="material-icons right ">more_vert</i></h3>
