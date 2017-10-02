@@ -59,7 +59,7 @@
 	</header>
 
 	<section id="offre">
-		<h2 class="center-align">Nous accompagnons les entreprises dans leur <br>présence numérique.</h2>
+		<h2 class="center-align">Nous accompagnons les entreprises dans leur <br>stratégie de communication digitale.</h2>
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-puzzle-tape.png"  alt="illustration approche globale"  >

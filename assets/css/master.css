@@ -132,10 +132,7 @@ p{
 .mini {
 	font-size: 1.5rem;
 }
-.material-icons{
-	
-	
-}
+
 .modal-footer a i {
 	vertical-align:middle;
 }
@@ -350,6 +347,9 @@ nav ul a {
 
 .card-content p {
 	color:#333333!important;
+}
+.card-image .btn-floating {
+	background-color: #F92AC2!important;
 }
 /*****************************************OFFRE******************************************/
 .offer-card {

@@ -64,7 +64,7 @@ $(function(){
  var max = getMax(heights);
  console.log(max);
 
- if($(window).outerWidth() > 360) {
+ if($(window).outerWidth() > 992) {
    $('.offer-content').each(function(){
      $(this).css('height', max);
    })
