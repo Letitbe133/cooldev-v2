@@ -46,14 +46,15 @@
 <?php
 	include('private/view/nav.php');
 ?>
-	<header>
+	<header class="row valign-wrapper">
 		<div class="row" id="header">
 			<div class="col s12 center-align ">
-						<img src="assets/img/picto-responsive.png" alt="illustration device">						
+						<img id="site" src="assets/img/j-ai-besoin-d-un-site.png" alt="j'ai besoin d'un site">						
 						<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
-						<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>
+						<!--<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>-->
+							<div class="col s12 center-align arrow"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    			
 			</div>
-			<div class="col s12 center-align"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    
+
 	    </div><!--#HEADER-->
 	   <div class="overlay"></div>
 	</header>

@@ -29,7 +29,7 @@
 				<img src="assets/img/school-dev.png" width="200px" alt="" />
 				<h1>Formations web individuelles</h1>
 				<p class="col s6 offset-s3 m4 offset-m4 tape">Devenez autonome !</p>
-				<div class="col s12 center-align"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
+				<div class="col s12 center-align arrow"><img data-target="#school" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
 				</div>
 	    </div><!--#HEADER-->
 	    <div class="overlay"></div>
@@ -38,6 +38,13 @@
 	<section class="section-offre">
 		<div class="container" id="school">
 			<div class="row">
+			<div class="col s12 m12 l12">
+				<img src="assets/img/school-dev.png" width="200px" alt="" />
+				<p>La SchoolDev, c'est un ensemble de formations que nous vous proposons sous forme de <a href="https://fr.wikipedia.org/wiki/Mentorat" target="_blank">mentorat</a>. Nous vous accompagnons dans la prise en main d'outils indispensables à votre communication digitale.</p>
+				<p>De la formation facebook pour débutants, à l'administration de votre site Wordpress, en passant par la mise en ligne de votre fiche Google My Business, ces outils numériques n'auront plus de secrets pour vous !</p> 
+				<p>> A domicile ou sur votre lieu de travail (sur toute la région PACA), ces formations s'adaptent à votre niveau et vos besoins.</p>
+				<p><a data-target="#section-contact" href="#section-contact" class="scrollTo ">Contactez-nous</a>, nous serons ravis de vous aider à développer votre communication digitale :)</p>
+			</div>
 			<div class="col s12">
 				<h2>Se former aux réseaux sociaux</h2>
 			</div><!--TITLE-->

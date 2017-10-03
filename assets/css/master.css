@@ -242,6 +242,13 @@ nav ul a {
 .tape h2 {
 	padding: 20px;
 }
+.arrow img {
+	position: absolute;
+	bottom: 15px;
+}
+#site {
+	padding-bottom: 60px;
+}
   /************************************************** */
   .div-cta {
 

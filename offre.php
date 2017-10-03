@@ -30,7 +30,7 @@
 				<img src="assets/img/logojaune.png" width="100px" alt="illustration cooldev" />
 				<h1>L' agence web pas tout à fait comme les autres</h1>
 				<p class="col s6 offset-s3 m4 offset-m4 tape">On vous montre ?</p>
-				<div class="col s12 center-align"><img data-target="#section-global" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
+				<div class="col s12 center-align arrow"><img data-target="#section-global" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
 			</div><!--TITLE-->
 	    	</div><!--#HEADER-->
 	    	<div class="overlay"></div>
