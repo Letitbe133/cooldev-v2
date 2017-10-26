@@ -35,7 +35,7 @@
     	</div>
     	<div class="overlay"></div>
 </header>
-<div class="row works" id="works">
+<div class="row works no-margin-bottom" id="works">
 
         <div id="cards" class="col s12 l10 offset-l1">
           <div class="col s12 m4 ">
@@ -94,7 +94,7 @@
       </div>
  </div>
 
-<div class="row works">
+<div class="row works no-margin-bottom">
 
         <div id="cards" class="col s12 l10 offset-l1">
           <div class="col s12 m4 ">

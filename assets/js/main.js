@@ -42,7 +42,12 @@ $(function(){
       $('#up').fadeOut();
      }
  });
+// Paralax
 
+   $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+    
 // Egalisation de la hauteur des cartes
  var heights = [];
 

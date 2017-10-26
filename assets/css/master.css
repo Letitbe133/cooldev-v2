@@ -17,7 +17,24 @@ couleur titres (bleu): #00F4D9
 
 .material-icons.md-60 { font-size: 60px; }
 
+/* 
 
+	**HELPERS 
+	
+	*/
+	
+.no-margin-bottom {
+	margin-bottom: 0;
+}
+.no-padding-bottom {
+	padding-bottom: 0!important;
+}
+.no-margin-top {
+	margin-top:0!important;
+}
+.no-padding-top {
+	padding-top: 0!important;
+}
 
 html, body {
   margin: 0;
@@ -25,7 +42,11 @@ html, body {
   color: white;
   font-size: 62.5%;
   box-sizing: border-box;
-
+  background-image: url("../img/textures/particules.png");
+  background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+background-color: #00101a;
 
 
 }
@@ -34,18 +55,17 @@ header{
 	position: relative;
   	display: flex;
 	height: 90vh;
-	
-	background-image: url("../img/textures/index.png");
+	/*background-image: url("../img/textures/index.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
 		
 	
 }
 #header {
 	z-index: 2;
 }
-.overlay {
+/*.overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -53,7 +73,7 @@ header{
   height: 100%;
   background-color: rgba(0, 16, 26, 0.8);
   z-index: 1;
- }
+ }*/
 header img:hover {
   cursor: pointer;
 }
@@ -321,7 +341,7 @@ nav ul a {
 
 
 #motiv, #school{
-	background-color:white;
+	background-color:;
 	padding-top: 60px;
 	padding-bottom: 60px;
 }
@@ -360,8 +380,18 @@ nav ul a {
 }
 /*****************************************OFFRE******************************************/
 .offer-card {
+	
 padding: 15px!important;	
 }
+.offer-card h2 {
+	color: #00101a;
+	font-weight: 200;
+	
+}
+.card{
+	background-color:rgba(0,0,0,0)
+	 }
+
 .budget ul {
 	font-size: 2rem;
 	font-weight: 200;
@@ -388,7 +418,7 @@ padding: 20px!important;
 }
 #offre {
 	background-color: white;
-	margin-top: 80px;
+	padding-top: 80px;
 	}
 #offre h2 {
 		margin-bottom: 70px;
@@ -456,6 +486,9 @@ padding: 20px!important;
 .card-panel {
 	background-color: #00101a;
 }
+.section-divider {
+	min-height:300px;
+}
 .section-offre {
 	background-color: white;
 	padding-top: 20px;
@@ -507,9 +540,15 @@ padding: 20px!important;
 .works h1, h2, h3, h4 {
 	color:grey; 
  }
+ .works {
+	background-color:white; 
+ }
+ #works {
+	padding-top:50px; 
+ }
 /************************************************************************************/
 #section-main-offer {
-	background-color: white;
+	
 	padding-top: 80px;
 	padding-bottom: 50px;
 }
@@ -596,18 +635,7 @@ footer {
 #social a{
 	padding-left: 20px;
 }
-.no-margin-bottom {
-	margin-bottom: 0;
-}
-.no-padding-bottom {
-	padding-bottom: 0!important;
-}
-.no-margin-top {
-	margin-top:0!important;
-}
-.no-padding-top {
-	padding-top: 0!important;
-}
+
 #heart a {
 	cursor:url("../img/heart.png"), auto;
 }

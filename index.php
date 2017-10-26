@@ -46,8 +46,8 @@
 <?php
 	include('private/view/nav.php');
 ?>
-	<header class="row valign-wrapper">
-		<div class="row" id="header">
+	<header class="row no-margin-bottom valign-wrapper">
+		<div class="row " id="header">
 			<div class="col s12 center-align ">
 						<img id="site" src="assets/img/j-ai-besoin-d-un-site.png" alt="j'ai besoin d'un site">						
 						<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
@@ -161,13 +161,13 @@ En diminuant le temps de développement, <mark>nous pouvons rendre abordable ce 
 	</section><!--SECTION #SECTION-TESTIMONIAL-->
 
 	<section id="section-main-offer">
-		<div class="row">
+		<!--<div class="row">
 			<div class="separator  col s8 offset-s2 divider"></div>
-		</div><!--SEPARATOR-->
+		</div><!--SEPARATOR--> -->
 		<div class="container" >
 			<div class="row">
 			<div class="title col s12">
-		  		<h2 class="center-align">Nos packs</h2>
+		  		<h2 class="center-align">Nos domaines d'intervention</h2>
 			</div>
 			
 				<div class="center-align col s12">
