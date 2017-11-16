@@ -1,5 +1,5 @@
 /*
-couleur fond (bleu foncé) : #00101a
+couleur fond (bleu foncé) : #00101a / #1b0b37
 couleur menu & cta (rose)) : #F92AC2
 couleur cadre(jaune)) : #FFFD10
 couleur titres (bleu): #00F4D9
@@ -46,7 +46,7 @@ html, body {
   background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-background-color: #00101a;
+background-color: #1b0b37;
 
 
 }
@@ -126,7 +126,7 @@ h1{
 
 }
 h2 {
-	color:#333333;
+	color:white;
 	font-weight: 300!important;
 	padding-bottom: 20px;
 	
@@ -182,7 +182,7 @@ h2 strong {
 
 /*********************************NAV*************************************************/
 nav {
-	background-color:#00101a;
+	background-color:#1b0b37;
 	opacity: 1;
 
 }
@@ -335,11 +335,15 @@ nav ul a {
 	padding-top: 0px;
 
 }
-.title h1 {
-	padding-bottom: 20px;
+.title h2 {
+	padding-bottom: 30px;
+	padding-top: 30px;
 }
 
-
+#motiv h2 {
+	color:whitesmoke;
+	
+}
 #motiv, #school{
 	background-color:;
 	padding-top: 60px;
@@ -353,9 +357,9 @@ nav ul a {
 	color:#00101a;
 }
 #motiv h3 {
-	color:#00101a;
+	color:whitesmoke;
 	font-weight: 400;
-	font-size: 3rem;
+	font-size: 2rem;
 }
 /*****************************************TESTIMONIAL******************************************/
 #section-testimonial {
@@ -365,6 +369,13 @@ nav ul a {
 	padding-top: 30px;
 
 }
+.card-title h2 {
+	margin-bottom: 0!important;
+}
+#cards-testimonial h3 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
 #us{
 	background-color:;
 }
@@ -373,7 +384,7 @@ nav ul a {
 }
 
 .card-content p {
-	color:#333333!important;
+	color:whitesmoke!important;
 }
 .card-image .btn-floating {
 	background-color: #F92AC2!important;
@@ -509,6 +520,7 @@ padding: 20px!important;
 .section-header-light {
 	background-color: white;
 	padding-top:50px!important;
+	padding-bottom: 50px;
 }
 .header-light p{
 	font-size: 1.8rem;
@@ -554,7 +566,7 @@ padding: 20px!important;
 }
 /****************************************CONTACT*****************************************/
 #section-contact{
-	background-color: white;
+	background-color: ;
 	padding-top: 10px;
 }
 #discuss{
@@ -597,10 +609,13 @@ input {
   }
 .feedback {
   font-size: 2rem;
-  color: #00101a;
+  color: whitesmoke;
+}
+#section-contact h2 {
+	color: white;
 }
 #section-contact h3 {
-	color:#00101a;
+	color:whitesmoke;
 	font-weight: 400;
 	font-size: 3rem;
 }
@@ -614,7 +629,7 @@ input {
 }
 /***********************************FOOTER*****************************************************/
 footer {
-	background-color:  #00101a;
+	background-color:  #1b0b37;
 	padding: 20px;
 }
 .footer a, .footer a:active, .footer a:visited {
@@ -667,6 +682,8 @@ footer {
 	font-size: 2rem;}
 	#offre p {
 	font-size: 2.5rem;}
+	#motiv p {
+	font-size: 2.5rem;}
 }
 
 @media all and (min-width: 1200px){
@@ -676,5 +693,7 @@ footer {
   	header h2{
 	font-size: 2rem;}
 	#offre p {
+	font-size: 3rem;}
+	#motiv p {
 	font-size: 3rem;}
 }

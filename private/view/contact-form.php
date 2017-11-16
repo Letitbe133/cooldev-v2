@@ -1,6 +1,6 @@
 <div id="section-contact">
 <div class="row">
-<div class="separator col s8 offset-s2 divider"></div>
+
 </div>
 	<div class="container">
 		  <div id="discuss" class="row">

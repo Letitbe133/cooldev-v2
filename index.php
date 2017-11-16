@@ -50,7 +50,7 @@
 		<div class="row " id="header">
 			<div class="col s12 center-align ">
 						<img id="site" src="assets/img/j-ai-besoin-d-un-site.png" alt="j'ai besoin d'un site">						
-						<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
+						<!--<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
 						<!--<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>-->
 							<div class="col s12 center-align arrow"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    			
 			</div>
@@ -63,16 +63,16 @@
 		<h2 class="center-align">Nous accompagnons les entreprises dans leur <br>stratégie de communication digitale.</h2>
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-puzzle-tape.png"  alt="illustration approche globale"  >
-					<p>Une approche globale<p>
+					<img src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
+					<p>Nous ne voyons pas un site web comme une fin en soi. Nous vous accompagnons dans l'intégration de votre site internet dans votre stratégie de communication numérique.<p>
 	  		</div><!--PICTO 1-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-coop-tape.png"  alt="illustration accompagnement personnalisé"   >
-					<p>Un accompagnement personnalisé<p>
+					<img src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
+					<p>Nos clients sont avant tout des partenaires. Nous co-construisons ensemble le site web qui vous ressemble. Nous disons ce que nous faisons et nous faisons ce que nous disons.<p>
 	  		</div><!--PICTO 2-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-pig-tape.png" alt="illustration budget maitrisé"  >
-					<p>Un budget maîtrisé<p>
+					<img src="assets/img/picto-pig-2.png" alt="illustration budget maitrisé"  >
+					<p>Grâce à une réelle écoute et compréhension de vos besoins, objectifs et contraintes, nous vous proposons des solutions adaptées à votre projet.<p>
 	  		</div><!--PICTO 3-->
 	  		<div id="call-to-action" class="col s12 ">
 	          <div class="div-cta">
@@ -86,85 +86,90 @@
    <section id="motiv">
  		<div class="container">
  			<div class="row">
-        	 <div id="motto">
+        	
+        	 
 		  		<div class="title col s12">
-		  		<h2 class="center-align">Notre motivation, c'est vous !</h2>
-				</div>			
-				<div class="center-align col s12"><i id="illustration" style="color:#F92AC2;" class="center-align material-icons medium">favorite_border</i>
-				</div>        
-          </div><!--MOTTO TITLE-->
-        <div class="col s12">
-          <p>Nous avons construit une offre pour les porteurs de projets. Pourquoi ? Parce que vous accompagner dans le développement de votre activité nous passionne. Nous avons beaucoup d'admiration pour ceux et celles qui ont le courage de créer leur entreprise, leur emploi et nous savons qu'au début de cette aventure, vous avez peu de moyens et pouvez vous sentir perdu au sujet de la <strong>création de votre site web</strong>.</p>
-		  </div><!--MOTTO-->
-		  <div class="col s12">
-            <ul class="collapsible z-depth-0" data-collapsible="accordion">
-              <li>
-                <div class="collapsible-header">
-                 <i style="color: #F92AC2" class="material-icons">keyboard_arrow_down</i><h4>En savoir plus</h4>
-                </div>
-                <div class="collapsible-body">
-                  	<div class="container">
-								<div class="row">
-										<h4 class="center-align"><br/><br/>Pourquoi votre présence numérique est indispensable ?<br/><br/></h4>
-
-									<div class="col s12 m6 l6">
-										<div class="center-align">
-				              			<img width="80px;" src="assets/img/picto-section-apropos-yellow.png" alt="Parlez de vous">
-										</div>
-					              <p>Où vous trouver, comment vous contacter, êtes-vous ouvert aujourd'hui ?<br/>
-					              Autant d'informations que vos futurs clients doivent trouver rapidement, parce que c'est ça qu'ils cherchent !
-					              </p>
-				          		</div><!--A PROPOS-->
-				         		<div class="col s12 m6 l6">
-				            		<div class="center-align">
-				              <img width="80px;" src="assets/img/picto-section-votre-offre-yellow.png" alt="Parlez de ce que vous faites">
-				            		</div>
-				            		<div>
-				              		<p>Que faites vous et pourquoi le faites vous si bien ?<br/>
-				                 Du contenu de qualité favorise votre présence sur les moteurs de recherche et vos clients vous trouvent plus facilement !
-				                 Ca sert à cela un site vitrine :)
-				              		</p>
-				            		</div>
-				         		</div><!--VOTRE OFFRE-->
-				         	</div>
-                  	<span>Nous ne vous proposons pas les services d'une <strong>agence web</strong> classique parce que vous n'en avez pas vraiment  besoin pour le moment.  <mark>Ce dont vous avez besoin, c'est d'une <strong>présence sur le web efficace</strong></mark> qui vous permettra de <strong>trouver vos premiers clients</strong>. </br>
-Nous allons réaliser et mettre en place ensemble votre <strong>communication  digitale</strong> en optimisant chaque  élément qui la compose. <br/>
-En diminuant le temps de développement, <mark>nous pouvons rendre abordable ce qui ne l’était pas encore !</mark>
-							</span>
-						</div>
-						<i style="float:right; color: black" class="material-icons clear">clear</i>
-                </div><!--COLLAPSIBLE-BODY-->
-              </li>
-            </ul>
-          </div><!--ACCORDEON-->
-		</div>	
+		  		<h2 class="center-align">Le collectif Cooldev</h2>
+				</div>
+						<div class="center-align col s12">
+					<img src="assets/img/picto-brain.png" alt="">
+				</div>
+			  <div class="col s12">
+		  		<p class="white-text center-align">Cooldev, c'est deux freelances passionnés et engagés très complémentaire qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. <br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
+			</div>
+		
+		</div>
+		 <?php
+				include('private/view/cards-testimonial.php');
+			?>   
+				
 		</div>	
 	</section><!--SECTION #MOTIV-->
 	
 	<section id="section-testimonial">
-		<div class="row">
-			<div class="separator col s8 offset-s2 divider"></div>
-		</div><!--SEPARATOR-->
-		<div class="container " id="testimonial">	
-			<div class="row">	  
-		  		<div class="title col s12">
-		  			<h2 class="center-align">L'équipe</h2>
-		  		</div>
-		  		  		<div class="center-align col s12">
-							<i id="illustration" style="color:#F92AC2" class="material-icons medium">&#xE87C;</i>
-		  				</div>
-				</div><!--TITLE-->
-			<?php
-				include('private/view/cards-testimonial.php');
-			?>
- 		</div><!--TESTIMONIAL-->
+		<div class="container " id="">	
+		<h2>Nos domainnes de compétences</h2>
+      <div class="row">
+        <div class="col s3 m2">
+          <div class="card">
+            <div class="card-image">
+              <img src="assets/img/picto-brain.png">
+            </div>
+            <div class="card-content">
+              <p class="grey-text">test</p>
+            </div>
+           </div>
+        </div>
+        <div class="col s3 m2">
+          <div class="card">
+            <div class="card-image">
+              <img src="assets/img/picto-brain.png">
+            </div>
+            <div class="card-content">
+              <p class="grey-text">test</p>
+            </div>
+           </div>
+        </div>
+                <div class="col s3 m2">
+          <div class="card">
+            <div class="card-image">
+              <img src="assets/img/picto-brain.png">
+            </div>
+            <div class="card-content">
+              <p class="grey-text">test</p>
+            </div>
+           </div>
+        </div>
+                <div class="col s3 m2">
+          <div class="card">
+            <div class="card-image">
+              <img src="assets/img/picto-brain.png">
+            </div>
+            <div class="card-content">
+              <p class="grey-text">test</p>
+            </div>
+           </div>
+        </div>
+                <div class="col s3 m2">
+          <div class="card">
+            <div class="card-image">
+              <img src="assets/img/picto-brain.png">
+            </div>
+            <div class="card-content">
+              <p class="grey-text">test</p>
+            </div>
+           </div>
+        </div>            
+		    	
+<!--TITLE-->
+		</div><!--TESTIMONIAL-->
 	</section><!--SECTION #SECTION-TESTIMONIAL-->
 
-	<section id="section-main-offer">
-		<!--<div class="row">
+<!-- 	<section id="section-main-offer">
+		<div class="row">
 			<div class="separator  col s8 offset-s2 divider"></div>
-		</div><!--SEPARATOR--> -->
-		<div class="container" >
+		</div><!--SEPARATOR--> 
+		<!-- <div class="container" >
 			<div class="row">
 			<div class="title col s12">
 		  		<h2 class="center-align">Nos domaines d'intervention</h2>
@@ -174,11 +179,9 @@ En diminuant le temps de développement, <mark>nous pouvons rendre abordable ce 
 					<i id="illustration" style="color:#F92AC2" class="material-icons medium">&#xE912;</i>
 				</div>
 			</div>
-		<?php
-			include('private/view/offer-cards.php');
-		?>
-		</div>
-	</section><!--SECTION #SECTION-MAIN-OFFER-->
+	
+	<!-- 	</div>
+	</section> --><!--SECTION #SECTION-MAIN-OFFER-->
 <?php
 	include('private/view/contact-form.php');
 ?>

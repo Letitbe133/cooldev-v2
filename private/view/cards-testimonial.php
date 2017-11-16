@@ -1,5 +1,5 @@
-<div class="row">
-	<div class="col s10 offset-s1 m5 offset-m1">
+<div class="row" id="cards-testimonial">
+	<div class="col s10 offset-s1 m5 offset-m1 l4 offset-l1">
 	  <div class="card ">
 	    <div class="card-image ">
 	      <img class="activator" src="assets/img/mi-v3.png" alt="Mylène, chargée de projets web">
@@ -20,7 +20,7 @@
 	    </div>
 	  </div>
 	</div>
-	<div class="col s10 offset-s1 m5">
+	<div class="col s10 offset-s1 m5 l4 offset-l2">
 	  <div class="card">
 	    <div class="card-image">
 	      <img class="activator" src="assets/img/lio-v3.png" alt="Lionel, développeur web">
