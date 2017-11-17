@@ -36,4 +36,5 @@
   			  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   			  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+<script src="assets/js/particles.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>

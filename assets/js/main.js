@@ -75,5 +75,11 @@ $(function(){
    })
  }
 
+ // Initialisation Particles
+ let particlesUrl = "http://localhost/cooldev-v2/assets/js/particles.json";
+ particlesJS.load('particles', particlesUrl, function() {
+  console.log('particles.js loaded - callback');
+});
+
 
 })

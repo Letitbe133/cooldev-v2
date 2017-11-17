@@ -47,6 +47,7 @@
 	include('private/view/nav.php');
 ?>
 	<header class="row no-margin-bottom valign-wrapper">
+	<div id="particles"></div>
 		<div class="row " id="header">
 			<div class="col s12 center-align ">
 						<img id="site" src="assets/img/j-ai-besoin-d-un-site.png" alt="j'ai besoin d'un site">						
@@ -55,8 +56,8 @@
 							<div class="col s12 center-align arrow"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    			
 			</div>
 
-	    </div><!--#HEADER-->
-	   <div class="overlay"></div>
+	  </div><!--#HEADER-->
+	  <div class="overlay"></div>
 	</header>
 
 	<section id="offre">
