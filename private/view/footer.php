@@ -7,7 +7,6 @@
         <a class="waves-effect waves-teal btn-flat" href="mailto:hello@cooldev.xyz">Hello[@]cooldev.xyz</a>
       </div>
       <div class= "col s12 m3 center-align">
-        <!-- Modal -->
         <a class="modal-trigger waves-effect waves-teal btn-flat" href="#modal1">Mentions légales</a>
         <div id="modal1" class="modal modal-fixed-footer">
           <div class="modal-content">
@@ -22,7 +21,7 @@
           <div class="modal-footer ">
             <a href="#!" class="modal-action modal-close btn-floating "><i class="material-icons ">highlight_off</i></a>
           </div>
-        </div>
+        </div><!-- Modal1 -->
        </div>
           <div id= "social" class= "col s12 m3 center-align">
             <a href="https://www.facebook.com/cooldevcrew/" target=_blank ><img src="assets/img/facebook.png" alt="Suivez-nous sur Facebook"></a>

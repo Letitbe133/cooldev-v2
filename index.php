@@ -49,140 +49,112 @@
 	<header class="row no-margin-bottom valign-wrapper">
 	<div id="particles"></div>
 		<div class="row " id="header">
-			<div class="col s12 center-align ">
-						<img id="site" src="assets/img/j-ai-besoin-d-un-site.png" alt="j'ai besoin d'un site">						
-						<!--<h1 class="">Faites grandir vos idées <br>grâce au web </h1>
-						<!--<p class="col s6 offset-s3 m4 offset-m4 tape">On est là !</p>-->
-							<div class="col s12 center-align arrow"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"/></div>    			
+			<div class=" col s12 center-align ">
+						<a href="#modalheader" ><button class="btn cta modal-trigger " type="button" name="button">J'ai besoin d'un site !</button></a>						
+
 			</div>
+			<div class="col s12 center-align ">
+				<div class="col s12 center-align arrow"><img data-target="#offre" class="scrollTo " width="25px" src="assets/img/arrow.png" alt="Faites défiler pour en savoir plus"></div>    			
+			</div>
+	  </div>
+	</header><!--#HEADER-->
+							<div id="modalheader" class="modal">
+						    <div class="modal-content">
+						      <h4>Vous êtes au bon endroit !</h4>
+						      <p>Faisons connaissance et découvrez ce que l'on peut faire ensemble :)</p>
 
-	  </div><!--#HEADER-->
-	  <div class="overlay"></div>
-	</header>
-
+						    </div>
+						    <div class="modal-footer">
+						      
+						    </div><!--Modal Header-->
+						 </div>
 	<section id="offre">
-		<h2 class="center-align">Nous accompagnons les entreprises dans leur <br>stratégie de communication digitale.</h2>
+		<h2 class="center-align">Hello world !</h2>
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
-					<p>Nous ne voyons pas un site web comme une fin en soi. Nous vous accompagnons dans l'intégration de votre site internet dans votre stratégie de communication numérique.<p>
+					<p class="grey-text">Un site web n'est pas une fin en soi. Nous l'intègrons dans votre stratégie de communication numérique.<p>
 	  		</div><!--PICTO 1-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
-					<p>Nos clients sont avant tout des partenaires. Nous co-construisons ensemble le site web qui vous ressemble. Nous disons ce que nous faisons et nous faisons ce que nous disons.<p>
+					<p class="grey-text">Nous sommes votre partenaire. Nous co-construisons ensemble le site web dont vous avez besoin en toute transparence. <p>
 	  		</div><!--PICTO 2-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-pig-2.png" alt="illustration budget maitrisé"  >
-					<p>Grâce à une réelle écoute et compréhension de vos besoins, objectifs et contraintes, nous vous proposons des solutions adaptées à votre projet.<p>
-	  		</div><!--PICTO 3-->
-	  		<div id="call-to-action" class="col s12 ">
-	          <div class="div-cta">
-	            <a href="offre.php" ><button class="btn cta scrollTo" type="button" name="button">J'ai besoin de ça !</button></a>
-	          </div>
-	      </div><!--CDA-->
-	       <div class="separator col s8 offset-s2 divider"></div>
+					<p class="grey-text">Nous vous écoutons et comprenons vos besoins, objectifs et contraintes pour vous proposer les solutions adaptées à votre projet.<p>
+	  		</div><!--PICTO 3-->	    
 		</div>
 	</section><!--SECTION OFFRE-->
-
    <section id="motiv">
  		<div class="container">
  			<div class="row">
-        	
-        	 
 		  		<div class="title col s12">
 		  		<h2 class="center-align">Le collectif Cooldev</h2>
-				</div>
-						<div class="center-align col s12">
-					<img src="assets/img/picto-brain.png" alt="">
-				</div>
+				</div><!--TITLE-->
+					<div class="center-align col s12">
+						<img src="assets/img/picto-brain.png" alt="">
+					</div><!--PICTO BRAIN-->
 			  <div class="col s12">
-		  		<p class="white-text center-align">Cooldev, c'est deux freelances passionnés et engagés très complémentaire qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. <br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
-			</div>
-		
-		</div>
+		  		<p class="white-text ">Cooldev, c'est deux freelances passionnés et engagés très complémentaire qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. Nous sévissons sur Marseille (13) et les alentours<br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
+			  </div><!--TEXT-->		
+		</div><!--ROW-->
 		 <?php
 				include('private/view/cards-testimonial.php');
 			?>   
-				
-		</div>	
+			<div id="call-to-action" class="col s12 ">
+	          <div class="div-cta">
+	            <a href="#section-contact" data-target="#section-contact" class="scrollTo"><button class="btn cta " type="button" name="button">Travaillons ensemble !</button></a>
+	          </div>
+	      </div><!--CTA-->	
+		</div><!--CONTAINER-->	
 	</section><!--SECTION #MOTIV-->
-	
-	<section id="section-testimonial">
-		<div class="container " id="">	
-		<h2>Nos domainnes de compétences</h2>
-      <div class="row">
-        <div class="col s3 m2">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/img/picto-brain.png">
-            </div>
-            <div class="card-content">
-              <p class="grey-text">test</p>
-            </div>
-           </div>
-        </div>
-        <div class="col s3 m2">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/img/picto-brain.png">
-            </div>
-            <div class="card-content">
-              <p class="grey-text">test</p>
-            </div>
-           </div>
-        </div>
-                <div class="col s3 m2">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/img/picto-brain.png">
-            </div>
-            <div class="card-content">
-              <p class="grey-text">test</p>
-            </div>
-           </div>
-        </div>
-                <div class="col s3 m2">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/img/picto-brain.png">
-            </div>
-            <div class="card-content">
-              <p class="grey-text">test</p>
-            </div>
-           </div>
-        </div>
-                <div class="col s3 m2">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/img/picto-brain.png">
-            </div>
-            <div class="card-content">
-              <p class="grey-text">test</p>
-            </div>
-           </div>
-        </div>            
-		    	
-<!--TITLE-->
-		</div><!--TESTIMONIAL-->
-	</section><!--SECTION #SECTION-TESTIMONIAL-->
+	<section id="skills">
+		 <div class="row">  
+	  		<div class="title col s12">
+	  		<h2 class="center-align">On assure dans : </h2>
+			</div><!--TITLE-->
+		</div>
+		<div class="row ">
+			<div class="col s12 m6 l3 center-align" style="padding: 5px;">
+				<div class="col s12 center-align">
+					<h3 class="center-align grey-text">Webdesign</h3>
+					<div class="chip tooltipped" style="background-color:#F92AC2;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">UX</div>
+					<div class="chip" style="background-color:#FFFD10;">Usabilité</div>
+					<div class="chip" style="background-color:#00F4D9;">Mobile First</div>
+					<div class="chip">Responsive</div>
+				</div>			
+			</div><!--WEBDESIGN-->
+			<div class="col s12 m6 l3" style="padding: 5px;">
+				<div class="col s12 center-align ">
+					<h3 class="center-align grey-text">Développement web</h3>
+					<div class="chip tooltipped" style="background-color:#F92AC2;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">W3C</div>
+					<div class="chip" style="background-color:#FFFD10;">GreenIT</div>
+					<div class="chip" style="background-color:#00F4D9;">Vie Privée</div>
+					<div class="chip">Accessibilité</div>
+										<div class="chip tooltipped" style="background-color:#F92AC2;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">SEO</div>
+				</div>			
+			</div><!--DEV-->
+			<div class="col s12 m6 l3" style="padding: 5px;">
+				<div class="col s12 center-align">
+					<h3 class="center-align grey-text">Identité</h3>
+					<div class="chip tooltipped" style="background-color:#F92AC2;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Flat Design</div>
+					<div class="chip" style="background-color:#FFFD10;">Charte graphique</div>
+					<div class="chip" style="background-color:#00F4D9;">Dessin vectoriel</div>
+					<div class="chip">Material Design</div>
+				</div>			
+			</div><!--IDENTITE-->
+			<div class="col s12 m6 l3" style="padding: 5px;">
+				<div class="col s12 center-align">
+					<h3 class="center-align grey-text">Mentorat</h3>
+					<div class="chip tooltipped" style="background-color:#F92AC2;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Réseaux sociaux</div>
+					<div class="chip" style="background-color:#FFFD10;">Google My Business</div>
+					<div class="chip" style="background-color:#00F4D9;">Wordpress</div>
+					<div class="chip">Canva</div>
+				</div>			
+			</div><!--MENTORAT-->
+		</div><!--SKILLS-->
+	</section><!--SECTION #SECTION-SKILLS-->
 
-<!-- 	<section id="section-main-offer">
-		<div class="row">
-			<div class="separator  col s8 offset-s2 divider"></div>
-		</div><!--SEPARATOR--> 
-		<!-- <div class="container" >
-			<div class="row">
-			<div class="title col s12">
-		  		<h2 class="center-align">Nos domaines d'intervention</h2>
-			</div>
-			
-				<div class="center-align col s12">
-					<i id="illustration" style="color:#F92AC2" class="material-icons medium">&#xE912;</i>
-				</div>
-			</div>
-	
-	<!-- 	</div>
-	</section> --><!--SECTION #SECTION-MAIN-OFFER-->
 <?php
 	include('private/view/contact-form.php');
 ?>
@@ -198,3 +170,4 @@
   </body>
 
 </html>
+			

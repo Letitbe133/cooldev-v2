@@ -237,10 +237,11 @@ nav ul a {
 .cta {
   display: block;
   margin: auto;
-  height: 6rem;
+  height: 10rem;
+  width:30rem;
   font-family: 'raleway', sans-serif;
-  font-size: 1.7rem;
-  color: black !important;
+  font-size: 2.4rem;
+  color: #1b0b37 !important;
   background-color: #F92AC2 !important;
   box-shadow: 0.5rem 0.5rem 0rem #FFFD10;
   cursor: pointer;
@@ -277,19 +278,23 @@ nav ul a {
 #site {
 	padding-bottom: 30px;
 }
+.modalheader {
+	z-index: 0;
+}
   /************************************************** */
   .div-cta {
 
-    margin: 0rem auto;
-    margin-bottom:6vh;
+    margin:  auto;
+    margin-top:50px;
+    font-size: 1rem;
 
   }
 
   .btn cta {
     display: block;
     margin: 0 auto;
-    height: 6rem;
-    width: 20rem;
+    height: 3rem;
+    width: 30rem;
     font-family: 'raleway', sans-serif;
     font-size: 1.7rem;
     color: black !important;
@@ -353,9 +358,9 @@ nav ul a {
 	
 }
 #motiv, #school{
-	background-color:;
-	padding-top: 60px;
-	padding-bottom: 60px;
+
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 .collapsible-body p{
 	color: #00101a;
@@ -370,27 +375,29 @@ nav ul a {
 	font-size: 2rem;
 }
 /*****************************************TESTIMONIAL******************************************/
-#section-testimonial {
+
+#skills {
 	background-color:white ;
-}
-#testimonial {
-	padding-top: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 
 }
-.card-title h2 {
-	margin-bottom: 0!important;
+#skills h3 {
+	color:whitesmoke;
+	font-weight: 300;
+	font-size: 3rem;
 }
 #cards-testimonial h3 {
 	margin-bottom: 0;
 	padding-bottom: 0;
 }
-#us{
-	background-color:;
-}
+
 #us h5+p{
 	font-size: 1.2rem;
 }
-
+.card-reveal p {
+	font-size: 2rem!important;
+}
 .card-content p {
 	color:whitesmoke!important;
 }
@@ -438,6 +445,7 @@ padding: 20px!important;
 #offre {
 	background-color: white;
 	padding-top: 80px;
+	padding-bottom: 80px;
 	}
 #offre h2 {
 		margin-bottom: 70px;
@@ -487,7 +495,7 @@ padding: 20px!important;
 	cursor:pointer;
 }
 #call-to-action {
-	background-color: white;
+	background-color: ;
 }
 #call-to-action p{
 	font-size: 2rem;
@@ -573,6 +581,11 @@ padding: 20px!important;
 	padding-bottom: 50px;
 }
 /****************************************CONTACT*****************************************/
+*::-moz-placeholder {
+
+    color: #1b0b37;
+
+}
 #section-contact{
 	background-color: ;
 	padding-top: 10px;
@@ -630,6 +643,9 @@ input {
 .validate {
 	color:#F92AC2;
 }
+#section-contact h5+p{
+	font-size: 1.2rem;
+}
 /***********************************SECTION-BUDGET*********************************************/
 .budget {
 	margin:;
@@ -672,6 +688,9 @@ footer {
 	font-size: 2rem;}
 	#offre p {
 	font-size: 2rem;}
+	#section-contact p {
+	font-size: 2rem;	
+	}
 	
 	
 }
@@ -692,6 +711,9 @@ footer {
 	font-size: 2.5rem;}
 	#motiv p {
 	font-size: 2.5rem;}
+	#section-contact p {
+	font-size: 2.5rem;	
+	}
 }
 
 @media all and (min-width: 1200px){
@@ -704,4 +726,7 @@ footer {
 	font-size: 3rem;}
 	#motiv p {
 	font-size: 3rem;}
+	#section-contact p {
+	font-size: 3rem;	
+	}
 }

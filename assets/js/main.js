@@ -81,5 +81,6 @@ $(function(){
   console.log('particles.js loaded - callback');
 });
 
-
+//Initialisation tooltip
+$('.tooltipped').tooltip({delay: 50, html:true});
 })

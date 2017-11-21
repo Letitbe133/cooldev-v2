@@ -9,13 +9,13 @@
 					 Parlons-en !</h2>
 				<div class="row">
 					<div class="center-align col s12">
-						<i id="illustration" style="color: #F92AC2;" class="material-icons medium">question_answer</i>
+						<i id="illustration" style="color: #F92AC2;" class="material-icons large">question_answer</i>
 					</div>				
 				</div>
 				</div>
         </div>
         <div class="divContact row" id="scrollContact">
-          <h3 class="col s12 m12 l12">Une idée, un projet, un message ?<br/>C'est à vous !</h3>
+          <p class="col s12 white-text ">Tout projet web commence par un échange. Autour d'un café, par mail, téléphone, Skype, tout est possible. Nous pouvons ainsi cerner au mieux vos besoin, comprendre votre métier et vos clients. Parlez-nous un peu de vous et nous vous recontactons rapidement.<br/><br/>C'est à vous !</p>
           <form class="col s12" id="contact" action="#contact" method="POST">
             <div class="tape input-field col s12 m12 l12">
               <i class="material-icons small prefix">account_box</i>

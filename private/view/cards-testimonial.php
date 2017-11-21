@@ -10,11 +10,11 @@
 	      <a href="https://twitter.com/cooldev_crew" target="_blank"><img src="assets/img/twitter.png" alt="Lien vers profil Twitter"></a>
 	    </h2></div>
 	      
-					<h3>Chargée de projets web</h3>
+					<h3>Webdesigner</h3>
 					<p>CEO/CXO &amp Co-founder</p>
 	     
 	    </div>
-	    <div class="card-reveal">
+	    <div class="card-reveal ">
 	      <span class="card-title grey-text text-darken-4">Principales caractéristiques<i class="material-icons right">close</i></span>
 	      <p>La plus créative et la moins têtue des deux. Seriale entrepreneuse, elle connait bien les problématiques des <strong>porteurs de projets </strong>! Son alimentation à base de cookies (recette disponible sur simple demande) et de jus de carottes est le secret de son empathie <3 </p>
 	    </div>

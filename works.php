@@ -26,7 +26,7 @@
 <header class="row valign-wrapper">
 		<div id="header" class="container center-align">
 		<div class="col s12 m12 l12">
-			<img src="assets/img/picto-puzzle.png" width="100px" alt="" />
+			<img src="assets/img/logojaune.png" width="100px" alt="" />
 			<h1>Ils nous ont choisis</h1>
 			<p class="tape col s6 offset-s3 m4 offset-m4 ">Histoires vraies</p>
 	       <div class="col s12 center-align arrow"><img data-target="#works" class="scrollTo " src="assets/img/arrow.png" width="25px" alt="Faites défiler pour en savoir plus"/></div>
