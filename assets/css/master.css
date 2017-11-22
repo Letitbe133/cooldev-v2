@@ -382,6 +382,10 @@ nav ul a {
 	padding-bottom: 80px;
 
 }
+.skills {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
 #skills h3 {
 	color:whitesmoke;
 	font-weight: 300;
@@ -568,11 +572,11 @@ padding: 20px!important;
 .works h1, h2, h3, h4 {
 	color:grey; 
  }
- .works {
-	background-color:white; 
- }
+
  #works {
-	padding-top:50px; 
+	padding-top:80px; 
+	padding-bottom: 80px;
+	background-color:white; 
  }
 /************************************************************************************/
 #section-main-offer {
