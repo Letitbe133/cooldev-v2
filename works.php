@@ -37,19 +37,18 @@
 </header>
 <section id="works">
 	<div class="title col s12">
-		  		<h2 class="center-align">Découvrez quelques uns de nos projets</h2>
+		  		<h2 class="center-align">Parcourez nos réalisations</h2>
 				</div><!--TITLE-->
 <div class="row works no-margin-bottom" >
-
         <div id="cards" class="col s12 l10 offset-l1">
-          <div class="col s12 m4 ">
+          <div class="col s12 l6 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
                <img  class="activator" src="assets/img/works/work-yarnover.jpg" alt="screenshot yarnover.xyz">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Yarn Over<i class="material-icons right">&#xE147;</i></h3>
-               <span><div class="chip" style="background-color:#F92AC2;">Identité</div><div class="chip" style="background-color:#FFFD10;">Webdesign</div><div class="chip" style="background-color:#00F4D9;">Développement</div></span>
+               <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
               </div>
 					<div class="card-reveal">
               <h4 class="card-title activator">Yarn Over<i class="material-icons right">close</i></h4>
@@ -61,15 +60,14 @@
               </div>
             </div>
           </div><!--YARN OVER-->
-        <div class="col s12 m4 ">
+        <div class="col s12 l6 ">
           <div class="card">
             <div class="card-image">
 					<img  class="activator" src="assets/img/works/work-timoun.jpg" alt="screenshot timoun">
-					
-            </div>
+				</div>
             <div class="card-content">
               <h3 class="card-title activator">Ti'moun<i class="material-icons right">&#xE147;</i></h3>
-              <span><div class="chip" style="background-color:#F92AC2;">Identité</div><div class="chip" style="background-color:#FFFD10;">TinySite</div><div class="chip" style="background-color:#00F4D9;">Développement</div></span>
+              <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">TinySite</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
             </div>
             <div class="card-reveal">
               <h4 class="card-title">Ti'moun<i class="material-icons right">close</i></h4>
@@ -81,112 +79,121 @@
               </div>
           </div>
         </div><!--TIMOUN-->
-        <div class="col s12 m4 ">
+      </div>
+    </div>
+<div class="row works no-margin-bottom" >
+        <div id="cards" class="col s12 l10 offset-l1">
+        <div class="col s12 l6 ">
           <div class="card">
             <div class="card-image">
               <img class="activator" src="assets/img/works/work-medilab.jpg" alt="screenshot medilab">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Medilab<i class="material-icons right ">&#xE147;</i></h3>
-              <span><div class="chip" style="background-color:#F92AC2;">Contenu éditorial</div><div class="chip" style="background-color:#FFFD10;">Webdesign</div><div class="chip" style="background-color:#00F4D9;">Développement</div></span>
+              <span><div class="chip" style="background-color:#ff6cf5;">Contenu éditorial</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
             </div>
  				<div class="card-reveal">
               <h4 class="card-title">Medilab<i class="material-icons right">close</i></h4>
               <h5></h5>
               <p></p>
               <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, rédaction du contenu français/anglais </p>
+              <p>Conception et réalisation d'un site branding sur-mesure, rédaction du contenu français/anglais </p>
+              <a href="http://medilab.one/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
              </div>
           </div>
       </div><!--MEDILAB-->
-      </div><!--CARDS 1-->
- </div>
-<div class="row works no-margin-bottom">
-
-        <div id="cards" class="col s12 l10 offset-l1">
-          <div class="col s12 m4 ">
+        
+          <div class="col s12 l6 ">
             <div class="card">
-              <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-cookies.png" alt="scrennshot cookies">
+              <div class="card-image">
+               <img  class="activator" src="assets/img/works/work-cookies.jpg" alt="scrennshot cookies">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Cookies<i class="material-icons right">&#xE147;</i></h3>
+                <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
               </div>
 					<div class="card-reveal">
-              <h4 class="card-title activator">Le Fab de DéDé<i class="material-icons right">close</i></h4>
-              <h5>Micro-entreprise</h5>
-              <p>Atelier nomade de sensibilisation au développement durable</p>
+              <h4 class="card-title activator">Cookies<i class="material-icons right">close</i></h4>
+              <h5>Projet perso</h5>
+              <p>L'ultime recette des cookies !</p>
               <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle</p>
-              <a href="http://www.fab-développement-durable.fr/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              <p>Conception graphique (logotype, pictogrammes, illustrations) et réalisation d'un site vitrine : les ingrédients indispensables pour partager facilement cette recette gourmande.</p>
+              <a href="http:///" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
             </div>
           </div><!--COOKIES-->
-        <div class="col s12 m4 ">
+         </div>
+         </div>
+<div class="row works no-margin-bottom" >
+        <div id="cards" class="col s12 l10 offset-l1">
+        <div class="col s12 l6 ">
           <div class="card">
-            <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-					<img  class="activator"  src="assets/img/works/work-lab4makers.png" alt="screenshot naturopathe">
+            <div class="card-image">
+					<img  class="activator"  src="assets/img/works/work-lab4makers.png" alt="screenshot lab4makers">
             </div>
             <div class="card-content">
-              <h3 class="card-title activator">Take that stick !<i class="material-icons right">&#xE147;</i></h3>
+              <h3 class="card-title activator">Lab4Makers<i class="material-icons right">&#xE147;</i></h3>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
             </div>
             <div class="card-reveal">
-              <h4 class="card-title">Take that stick !<i class="material-icons right">close</i></h4>
-              <h5>App Apple Store </h5>
-              <p>Jeu de patience sur iOS</p>
+              <h4 class="card-title">Lab4Makers<i class="material-icons right">close</i></h4>
+              <h5>Collectif</h5>
+              <p>Pour la promotion des usages numériques</p>
               <p>___</p>
-              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a> pour la présentation de l'app</p>
-              <a href="http://denis.hiezely.space" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              <p>Conception graphique (logotype, pictogrammes, illustrations) et réalisation d'un site ressources.</p>
+              <a href="http://www.labprovence.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
           </div>
         </div><!--LAB4MAKERS-->
-        <div class="col s12 m4 ">
+        <div class="col s12 l6 ">
           <div class="card">
-            <div class="card-image  red accent-2 waves-effect waves-block waves-light">
-              <img class="activator" src="assets/img/works/work-fred.png" alt="we love work with you ">
+            <div class="card-image">
+              <img class="activator" src="assets/img/works/work-fred.jpg" alt="Sreenshot Fred petits travaux ">
             </div>
             <div class="card-content">
-              <h3 class="card-title activator">Avec plaisir !<i class="material-icons right ">&#xE147;</i></h3>
+              <h3 class="card-title activator">Fred<i class="material-icons right ">&#xE147;</i></h3>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
             </div>
  				<div class="card-reveal">
-              <h4 class="card-title">Avec plaisir !<i class="material-icons right">close</i></h4>
-              <h5></h5>
-              <p>Nous sommes à votre disposition pour évaluer avec vous vos besoins en matière de communication digitale.</p>
+              <h4 class="card-title">Fred<i class="material-icons right">close</i></h4>
+              <h5>Micro-entreprise</h5>
+              <p>Petits travaux et remise en état sur Ceyreste (13)</p>
               <p>___</p>
-              <p><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">Contactez-nous</a>. Nous avons hâte de découvrir votre projet et de collaborer avec vous.</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle (logotype, illustrations).</p>
              </div>
           </div>
       </div><!--FRED-->
       </div>
  </div>
 <div class="row works no-margin-bottom">
-
         <div id="cards" class="col s12 l10 offset-l1">
-          <div class="col s12 m4 ">
+          <div class="col s12 l6 ">
             <div class="card">
               <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
                <img  class="activator" src="assets/img/works/work-fabdd.png" alt="scrennshot fab de dédé">
               </div>
               <div class="card-content">
                 <h3 class="card-title activator">Le Fab de DéDé<i class="material-icons right">&#xE147;</i></h3>
+                <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
               </div>
 					<div class="card-reveal">
               <h4 class="card-title activator">Le Fab de DéDé<i class="material-icons right">close</i></h4>
               <h5>Micro-entreprise</h5>
               <p>Atelier nomade de sensibilisation au développement durable</p>
               <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle</p>
+              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle (charte graphique, logotype, pictogrammes, illustrations)</p>
               <a href="http://www.fab-développement-durable.fr/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
             </div>
-          </div>
-        <div class="col s12 m4 ">
+          </div><!--LE FAB de DD-->
+        <div class="col s12 l6 ">
           <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
 					<img  class="activator"  src="assets/img/works/work-take-that-stick.png" alt="screenshot naturopathe">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Take that stick !<i class="material-icons right">&#xE147;</i></h3>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
             </div>
             <div class="card-reveal">
               <h4 class="card-title">Take that stick !<i class="material-icons right">close</i></h4>
@@ -197,14 +204,19 @@
               <a href="http://denis.hiezely.space" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
           </div>
-        </div>
-        <div class="col s12 m4 ">
+        </div><!--TAKE THAT STICK-->
+       </div>
+      </div>
+<div class="row works no-margin-bottom" >
+        <div id="cards" class="col s12 l10 offset-l1">       
+        <div class="col s12 m6 ">
           <div class="card">
-            <div class="card-image  red accent-2 waves-effect waves-block waves-light">
+            <div class="card-image">
               <img class="activator" src="assets/img/works/work-with-you.png" alt="we love work with you ">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Avec plaisir !<i class="material-icons right ">&#xE147;</i></h3>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
             </div>
  				<div class="card-reveal">
               <h4 class="card-title">Avec plaisir !<i class="material-icons right">close</i></h4>
@@ -213,7 +225,7 @@
               <p>___</p>
               <p><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">Contactez-nous</a>. Nous avons hâte de découvrir votre projet et de collaborer avec vous.</p>
              </div>
-          </div>
+          </div><!--WORK WITH YOU-->
       </div>
       </div>
  </div>

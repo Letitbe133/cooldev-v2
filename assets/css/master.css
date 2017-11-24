@@ -1,8 +1,15 @@
 /*
-couleur fond (bleu foncé) : #00101a / #1b0b37
-couleur menu & cta (rose)) : #F92AC2
-couleur cadre(jaune)) : #FFFD10
-couleur titres (bleu): #00F4D9
+
+	 *****************   
+    *** COULEURS ****
+    
+    *****************
+    
+    
+couleur fond (bleu foncé) : #00101a / violet :  #1b0b37
+couleur menu & cta (rose)) : #F92AC2 / plus clair : #ff6cf5
+couleur cadre(jaune)) : #FFFD10 / plus clair : #ffff5d 
+couleur titres (bleu): #00F4D9 / plus clair : #6cffff
 */
 
 /* Helpers material-icons*/
@@ -431,15 +438,11 @@ padding: 15px!important;
 
 	list-style-image: url("../img/arrow-right.png");
 }
-.card-header {
-	width: 100%;
-	height: 150px;
-padding: 20px!important;	
-}
-.card-header img {
+
+/*.card-header img {
 		
 		height: 100px;
-	}
+	}*/
 .picto-offre{
 	
 	padding-left: 50px!important;
@@ -454,9 +457,9 @@ padding: 20px!important;
 #offre h2 {
 		margin-bottom: 70px;
 }	
-#offre img {
+/*#offre img {
 	height: 250px;
-}
+}*/
 #offre p {
 	color:#333333;
 	font-size: 2rem!important;
@@ -506,8 +509,15 @@ padding: 20px!important;
 	padding-top: 0;
 }
 
-
-
+.ship {
+	color:black;
+}
+#skills .card {
+	background-color: white;
+}
+#skills p {
+	color: grey!important;
+}
 /*****************************************PAGES******************************************/
 
 .card-panel img {

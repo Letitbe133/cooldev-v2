@@ -14,7 +14,7 @@
    viewBox="0 0 106.21493 24.206596"
    version="1.1"
    id="svg4580"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="masking-tape-yellow.svg">
   <defs
      id="defs4574" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="355.00684"
-     inkscape:cy="-148.54096"
+     inkscape:cx="-284.99316"
+     inkscape:cy="-159.96953"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +61,9 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="rect4559"
-       d="m -159.69675,89.284297 c 23.7087,-1.135144 105.988694,-3.959024 105.988694,-3.959024 l -1.22487,1.696503 1.26366,1.697795 -1.11176,1.696503 1.14796,1.470302 -1.22488,1.696502 1.26624,1.922703 -1.00254,1.355909 1.03615,1.584695 -0.99736,1.809605 1.03484,1.4703 -1.11305,1.69652 1.15184,1.69778 -106.214924,4.41148 1.69673,-1.80984 -1.69673,-1.58361 1.24427,-1.80984 -1.24427,-2.48853 1.69673,-1.47049 -1.69673,-2.149184 1.24427,-1.922954 -1.24427,-1.922953 1.13115,-1.696724 -1.13115,-1.922954 z"
-       style="opacity:1;fill:#fffd10;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+       d="M -493.78531,25.597556 C -395.50323,20.891928 -54.419641,9.1858119 -54.419641,9.1858119 l -5.077576,7.0326871 5.238377,7.038041 -4.608691,7.032685 4.758754,6.094992 -5.077618,7.032681 5.249073,7.970376 -4.155932,5.620787 4.295259,6.569197 -4.134458,7.501539 4.289826,6.094983 -4.614039,7.032756 4.77484,7.037979 -440.303484,18.287355 7.03364,-7.50251 -7.03364,-6.564697 5.15801,-7.502518 -5.15801,-10.315955 7.03364,-6.095771 -7.03364,-8.90923 5.15801,-7.971417 -5.15801,-7.971411 4.68908,-7.033602 -4.68908,-7.971416 z"
+       style="opacity:1;fill:#ffff5d;fill-opacity:1;stroke:none;stroke-width:1.09853125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
   </g>
 </svg>

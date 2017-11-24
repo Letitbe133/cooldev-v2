@@ -48,12 +48,12 @@ $(function(){
       $('.parallax').parallax();
     });
     
-// Egalisation de la hauteur des cartes
+// Egalisation de la hauteur des cartes skills
  var heights = [];
 
  function getHeights(){
 
- $('.offer-content').each(function(){
+ $('.card-action').each(function(){
    heights.push($(this).outerHeight());
  })
  return heights;
@@ -69,8 +69,8 @@ $(function(){
  var max = getMax(heights);
  console.log(max);
 
- if($(window).outerWidth() > 992) {
-   $('.offer-content').each(function(){
+ if($(window).outerWidth() > 600) {
+   $('.card-action').each(function(){
      $(this).css('height', max);
    })
  }
