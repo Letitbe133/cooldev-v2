@@ -15,7 +15,7 @@
 				</div>
         </div>
         <div class="divContact row" id="scrollContact">
-          <p class="col s12 white-text ">Tout projet web commence par un échange. Autour d'un café, par mail, téléphone, Skype, tout est possible. Nous pouvons ainsi cerner au mieux vos besoin, comprendre votre métier et vos clients. Parlez-nous un peu de vous et nous vous recontactons rapidement.<br/><br/>C'est à vous !</p>
+          <p class="col s12 white-text ">Tout projet web commence par un échange. Autour d'un café, par mail, téléphone, Skype, tout est possible. Nous pouvons ainsi cerner au mieux vos besoins, comprendre votre métier et vos clients. Parlez-nous un peu de vous et nous vous recontactons rapidement.<br/><br/>C'est à vous !</p>
           <form class="col s12" id="contact" action="#contact" method="POST">
             <div class="tape input-field col s12 m12 l12">
               <i class="material-icons small prefix">account_box</i>

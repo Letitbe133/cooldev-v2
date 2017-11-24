@@ -73,7 +73,7 @@
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
-					<p class="grey-text">Un site web n'est pas une fin en soi. Nous l'intègrons dans votre stratégie de communication numérique.<p>
+					<p class="grey-text">Un site web n'est pas une fin en soi. Nous l'intégrons dans votre stratégie de communication numérique.<p>
 	  		</div><!--PICTO 1-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
@@ -95,7 +95,7 @@
 						<img src="assets/img/picto-brain.png" alt="">
 					</div><!--PICTO BRAIN-->
 			  <div class="col s12">
-		  		<p class="white-text ">Cooldev, c'est deux freelances passionnés et engagés très complémentaire qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. Nous sévissons sur Marseille (13) et les alentours<br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
+		  		<p class="white-text ">Cooldev, c'est deux freelances très complémentaires, passionnés et engagés qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. Nous sévissons sur Marseille (13) et les alentours<br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
 			  </div><!--TEXT-->		
 		</div><!--ROW-->
 		 <?php
