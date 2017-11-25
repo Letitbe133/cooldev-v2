@@ -53,7 +53,7 @@ $(function(){
 
  function getHeights(){
 
- $('.card-action').each(function(){
+ $('#skills .card-content').each(function(){
    heights.push($(this).outerHeight());
  })
  return heights;
@@ -70,7 +70,7 @@ $(function(){
  console.log(max);
 
  if($(window).outerWidth() > 600) {
-   $('.card-action').each(function(){
+   $('.card-content').each(function(){
      $(this).css('height', max);
    })
  }

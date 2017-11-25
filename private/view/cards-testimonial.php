@@ -34,7 +34,7 @@
 		</div>
 	    <div class="card-reveal">
 	      <span class="card-title grey-text text-darken-4">Principales caractéristiques<i class="material-icons right">close</i></span>
-	      <p>Trilingue français/anglais/javascript, il lui est déjà arrivé de rêver en code. Vous l'aurez compris, son domaine, c'est la vie cachée de votre futur <strong>site web</strong>, le <strong>back-end</strong>. Quand il ne code pas, il fait des treks en pleine nature avec son chien Spud.</p>
+				<p>Le code c'est mon truc et je peux y passer des heures. Si vous me cherchez je suis probablement dans les coulisses de votre <strong>site web</strong>. Et si je ne suis pas vissé devant mon écran je suis probablement en trek avec mon chien Spud parce que respirer l'air frais c'est bien aussi :) </p>
 	    </div>
 	  </div>
 	</div>

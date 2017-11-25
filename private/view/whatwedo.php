@@ -3,8 +3,8 @@
 				<div class="card">
 					<div class="card-content grey-text">
 						<span class="card-title">Identité</span>
-						<p class="grey-text">I am a very simple card. I am good at containing small bits of information.
-						I am convenient because I require little markup to use effectively.</p>
+						<p class="grey-text">Votre site web c'est comme votre salon : vous devez vous y sentir bien. 
+						Alors on crée avec vous un décor et une ambiance qui vous ressemblent.</p>
 					</div>
 					<div class="card-action">
 						<span><div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Flat Design</div></span>
@@ -18,8 +18,7 @@
 				<div class="card">
 					<div class="card-content grey-text">
 						<span class="card-title">Webdesign</span>
-						<p class="grey-text">I am a very simple card. I am good at containing small bits of information.
-						I am convenient because I require little markup to use effectively.</p>
+						<p class="grey-text">Un joli site c'est bien. Mais un site où la navigation est simple, intuitive et rapide c'est mieux. Ca tombe bien on sait faire les 2.</p>
 					</div>
 					<div class="card-action">
 						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">UX</div>
@@ -37,8 +36,7 @@
 				<div class="card">
 					<div class="card-content grey-text">
 						<span class="card-title">Développement web</span>
-						<p class="grey-text">I am a very simple card. I am good at containing small bits of information.
-						I am convenient because I require little markup to use effectively.</p>
+						<p class="grey-text">La plus belle voiture n'est rien sans moteur. On s'occupe de la mécanique parce que le cambouis ne nous fait pas peur.</p>
 					</div>
 					<div class="card-action">
 						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">W3C</div>
@@ -55,8 +53,7 @@
 				<div class="card">
 					<div class="card-content grey-text">
 						<span class="card-title">Mentorat</span>
-						<p class="grey-text">I am a very simple card. I am good at containing small bits of information.
-						I am convenient because I require little markup to use effectively.</p>
+						<p class="grey-text">Apprendre c'est toujours plus facile quand on est accompagné. On est aussi là pour ça et on le fait à votre rythme.</p>
 					</div>
 					<div class="card-action">
 						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Réseaux sociaux</div>

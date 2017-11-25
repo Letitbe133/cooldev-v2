@@ -37,7 +37,7 @@
 </header>
 <section id="works">
 	<div class="title col s12">
-		  		<h2 class="center-align">Parcourez nos réalisations</h2>
+		  		<h2 class="center-align">Jetez un oeil à nos réalisations</h2>
 				</div><!--TITLE-->
 <div class="row works no-margin-bottom" >
         <div id="cards" class="col s12 l10 offset-l1">

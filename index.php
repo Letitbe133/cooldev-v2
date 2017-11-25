@@ -73,7 +73,7 @@
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
-					<p class="grey-text">Un site web n'est pas une fin en soi. Nous l'intégrons dans votre stratégie de communication numérique.<p>
+					<p class="grey-text">Un site web est un outil, pas une fin en soi. Nous l'intégrons dans votre stratégie de communication numérique.<p>
 	  		</div><!--PICTO 1-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
 					<img src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
@@ -103,7 +103,7 @@
 			?>   
 			<div id="call-to-action" class="col s12 ">
 	          <div class="div-cta">
-	            <a href="#section-contact" data-target="#section-contact" class="scrollTo"><button class="btn cta " type="button" name="button">Travaillons ensemble !</button></a>
+	            <a href="#section-contact" data-target="#section-contact" class="scrollTo"><button class="btn cta " type="button" name="button">Et si on travaillait ensemble ?</button></a>
 	          </div>
 	      </div><!--CTA-->	
 		</div><!--CONTAINER-->	
@@ -111,7 +111,7 @@
 	<section id="skills">
 		 <div class="row">  
 	  		<div class="title col s12">
-	  		<h2 class="center-align">Ce que nous faisons </h2>
+	  		<h2 class="center-align">Nos spécialités</h2>
 	  		<div class="center-align" >
 	  		<img src="assets/img/arrow.png" alt="">
 	  		</div>
