@@ -72,15 +72,15 @@
 		<h2 class="center-align">Hello world !</h2>
 	  	<div class="row">
 			<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
+					<img class="responsive-img" src="assets/img/picto-puzzle-2.png"  alt="illustration approche globale"  >
 					<p class="grey-text">Un site web est un outil, pas une fin en soi. Nous l'intégrons dans votre stratégie de communication numérique.<p>
 	  		</div><!--PICTO 1-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
+					<img class="responsive-img" src="assets/img/picto-coop-2.png"  alt="illustration accompagnement personnalisé"   >
 					<p class="grey-text">Nous sommes votre partenaire. Nous co-construisons ensemble le site web dont vous avez besoin en toute transparence. <p>
 	  		</div><!--PICTO 2-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
-					<img src="assets/img/picto-pig-2.png" alt="illustration budget maitrisé"  >
+					<img class="responsive-img" src="assets/img/picto-pig-2.png" alt="illustration budget maitrisé"  >
 					<p class="grey-text">Nous vous écoutons et comprenons vos besoins, objectifs et contraintes pour vous proposer les solutions adaptées à votre projet.<p>
 	  		</div><!--PICTO 3-->	    
 		</div>
@@ -92,7 +92,7 @@
 		  		<h2 class="center-align">Le collectif Cooldev</h2>
 				</div><!--TITLE-->
 					<div class="center-align col s12">
-						<img src="assets/img/picto-brain.png" alt="">
+						<img class="responsive-img" src="assets/img/picto-brain.png" alt="">
 					</div><!--PICTO BRAIN-->
 			  <div class="col s12">
 		  		<p class="white-text ">Cooldev, c'est deux freelances très complémentaires, passionnés et engagés qui adorent travailler ensemble. C'est une vision commune du web et des valeurs partagées. Nous sévissons sur Marseille (13) et les alentours<br><br>C'est surtout deux cerveaux en ébullition au service de vos projets web !</p>
@@ -113,7 +113,7 @@
 	  		<div class="title col s12">
 	  		<h2 class="center-align">Nos spécialités</h2>
 	  		<div class="center-align" >
-	  		<img src="assets/img/picto-unicorn.png" alt="">
+	  		<img src="assets/img/picto-unicorn-6.png" alt="">
 	  		</div>
 			</div><!--TITLE-->
 		</div>

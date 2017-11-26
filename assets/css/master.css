@@ -136,8 +136,10 @@ h1{
 }
 h2 {
 	color:white;
-	font-weight: 300!important;
+	font-weight: 900!important;
 	padding-bottom: 20px;
+	font-weight: 900;
+	font-size: 4rem;
 	
 }
 h3{
@@ -356,7 +358,10 @@ nav ul a {
 
 #motiv h2 {
 	color:whitesmoke;
-	
+		
+}
+.card h2 {
+	font-size: 2.5rem;
 }
 #motiv, #school{
 
@@ -409,7 +414,7 @@ nav ul a {
 .card-image .btn-floating {
 	background-color: #F92AC2!important;
 }
-/*****************************************OFFRE******************************************/
+/*****************************************SKILLS******************************************/
 .offer-card {
 	
 padding: 15px!important;	
@@ -512,6 +517,10 @@ padding: 15px!important;
 #skills p {
 	color: grey!important;
 }
+.card .card-title {
+
+    font-weight: 500;
+}
 /*****************************************PAGES******************************************/
 .particules {
 	background-image: url("../img/textures/particules.png");
@@ -579,7 +588,7 @@ padding: 15px!important;
 	color:#00101A; 
  }
 .works h1, h2, h3, h4 {
-	color:grey; 
+	color:#c6c6c6; 
  }
 
  #works {
