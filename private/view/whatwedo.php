@@ -7,7 +7,7 @@
 						Alors on crée avec vous un décor et une ambiance qui vous ressemblent.</p>
 					</div>
 					<div class="card-action">
-						<span><div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Flat Design</div></span>
+						<span><div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">Flat Design</div></span>
 						<span><div class="chip" style="background-color:#ffff5d;">Charte graphique</div></span>
 						<span><div class="chip" style="background-color:#6cffff;">Dessin vectoriel</div></span>
 						<span><div class="chip">Logo</div></span>
@@ -21,11 +21,11 @@
 						<p class="grey-text">Un joli site c'est bien. Mais un site où la navigation est simple, intuitive et rapide c'est mieux. Ca tombe bien on sait faire les 2.</p>
 					</div>
 					<div class="card-action">
-						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">UX</div>
+						<div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">UX</div>
 						<div class="chip" style="background-color:#ffff5d;">Usabilité</div>
 						<div class="chip">Responsive</div>
 						<div class="chip" style="background-color:#6cffff;">Mobile First</div>
-						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Flat Design</div>
+						<div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">Flat Design</div>
 						<div class="chip">Material Design</div>
 					</div>
 				</div>
@@ -39,11 +39,11 @@
 						<p class="grey-text">La plus belle voiture n'est rien sans moteur. On s'occupe de la mécanique parce que le cambouis ne nous fait pas peur.</p>
 					</div>
 					<div class="card-action">
-						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">W3C</div>
+						<div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">W3C</div>
 						<div class="chip" style="background-color:#ffff5d;">GreenIT</div>
 						<div class="chip" style="background-color:#6cffff;">Vie privée</div>
 						<div class="chip">Accessibilité</div>
-						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">SEO</div>
+						<div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">SEO</div>
 						<div class="chip" style="background-color:#ffff5d;">Site vitrine</div>
 						<div class="chip" style="background-color:#6cffff;">Blog</div>
 					</div>
@@ -56,7 +56,7 @@
 						<p class="grey-text">Apprendre c'est toujours plus facile quand on est accompagné. On est aussi là pour ça et on le fait à votre rythme.</p>
 					</div>
 					<div class="card-action">
-						<div class="chip tooltipped" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50" data-tooltip="<h2>I am a tooltip</h2>">Réseaux sociaux</div>
+						<div class="chip" style="background-color:#ff6cf5;" data-position="bottom" data-delay="50">Réseaux sociaux</div>
 						<div class="chip" style="background-color:#ffff5d;">Google My Business</div>
 						<div class="chip" style="background-color:#6cffff;">Wordpress</div>
 						<div class="chip">Canva</div>
