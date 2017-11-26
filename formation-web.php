@@ -23,7 +23,7 @@
 <?php
 	include('private/view/nav.php');
 ?>
-	<header class="row valign-wrapper">
+	<header class="row valign-wrapper particules">
 		<div id="header" class="container center-align">
 			<div class="col s12 m12 l12">
 				<img src="assets/img/school-dev.png" width="200px" alt="" />

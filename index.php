@@ -113,7 +113,7 @@
 	  		<div class="title col s12">
 	  		<h2 class="center-align">Nos spécialités</h2>
 	  		<div class="center-align" >
-	  		<img src="assets/img/arrow.png" alt="">
+	  		<img src="assets/img/picto-unicorn.png" alt="">
 	  		</div>
 			</div><!--TITLE-->
 		</div>
