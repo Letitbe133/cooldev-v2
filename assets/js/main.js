@@ -91,6 +91,8 @@ function setHeight(target) {
 }
 
 setHeight("#skills .card-content");
+setHeight("#skills .card-action");
+setHeight("#works .card-content");
     
  // Initialisation Particles
  let particlesUrl = "http://localhost/cooldev-v2/assets/js/particles.json";
