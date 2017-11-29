@@ -60,12 +60,9 @@
 	</header><!--#HEADER-->
 	<div id="modalheader" class="modal">
 		<div class="modal-content" style="display: flex; padding: 0px;">
-			<!-- <h4>Vous êtes au bon endroit !</h4> -->
-			<!-- <p>Faisons connaissance et découvrez ce que l'on peut faire ensemble :)</p> -->
 			<img src="assets/img/unicorn.gif" alt="" srcset="" style="flex: auto;">
 		</div>
-		<!-- <div class="modal-footer"> -->
-		</div><!--Modal Header-->
+	</div><!--Modal Header-->
 	</div>
 	<section id="offre">
 		<h2 class="center-align">Hello world !</h2>
