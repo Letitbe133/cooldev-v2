@@ -45,12 +45,6 @@ $(function(){
 // Initialisation Paralax
       $('.parallax').parallax();
 
- // Initialisation Particles
- let particlesUrl = "http://mylene.hiezely.space/assets/js/particles.json";
- particlesJS.load('particles', particlesUrl, function() {
-  console.log('particles.js loaded - callback');
-});
-
 //Initialisation tooltip
 $('.tooltipped').tooltip({delay: 50, html:true});
 })
