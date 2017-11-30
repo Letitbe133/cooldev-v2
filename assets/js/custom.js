@@ -1,3 +1,9 @@
+ // Initialisation Particles
+ let particlesUrl = "http://mylene.hiezely.space/assets/js/particles.json";
+ particlesJS.load('particles', particlesUrl, function() {
+  console.log('particles.js loaded - callback');
+});
+
 // Egalisation des hauteurs de cartes
 
 // function getMaxHeights
