@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 	 <meta name="google-site-verification" content="rBRnpj5XSqUqYyI27OQ52hRYjk1PkW2Z1i3E9ces7oE" />
-    <meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, présence numérique, porteurs de projets, création d'entreprise" />
+    <meta name="keywords" content="Création de sites web, site vitrine, communication digitale, responsive, identité visuelle, blog, wordpress" />
     <meta name="description" content="Nous accompagnons les entreprises dans leur présence numérique par la création de sites vitrines et la formation à la communication digitale " />
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
@@ -25,7 +25,7 @@
 	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/open-graph/og-cooldev.png">
 
 <!-- Piwik -->
-		<script type="text/javascript" defer>
+		<!--<script type="text/javascript" defer>
 		  var _paq = _paq || [];
 		  _paq.push(["setCookieDomain", "*.cooldev.xyz"]);
 		  _paq.push(['trackPageView']);
@@ -60,6 +60,7 @@
 	</header><!--#HEADER-->
 	<div id="modalheader" class="modal">
 		<div class="modal-content" style="display: flex; padding: 0px;">
+			<div class="modal-action modal-close" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1000;"><i class="material-icons right">close</i></div>
 			<img src="assets/img/unicorn.gif" alt="" srcset="" style="flex: auto;">
 		</div>
 	</div><!--Modal Header-->

@@ -12,7 +12,7 @@
 <meta name="description" content="Formez-vous aux réseaux sociaux et aux outils numériques de communication pour faire grandir votre entreprise" />
 
 <!-- Open Graph Meta Tags -->
-	<meta property="og:title" content="Formation web | Devenez autonome dans votre communication digitale">
+	<meta property="og:title" content="Mentorat web | Devenez autonome dans votre communication digitale">
 	<meta property="og:site_name" content="Cooldev">
 	<meta property="og:url" content="http://www.cooldev.xyz/formation-web.php">
 	<meta property="og:description" content="Formez-vous aux réseaux sociaux et aux outils numériques de communication pour faire grandir votre entreprise " />

@@ -40,52 +40,10 @@
 		  		<h2 class="center-align">Jetez un oeil à nos réalisations</h2>
 				</div><!--TITLE-->
 <div class="row works no-margin-bottom" >
-        <div id="cards" class="col s12 l10 offset-l1">
-          <div class="col s12 l6 ">
-            <div class="card">
-              <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-yarnover.jpg" alt="screenshot yarnover.xyz">
-              </div>
-              <div class="card-content">
-                <h3 class="card-title activator">Yarn Over<i class="material-icons right">&#xE147;</i></h3>
-               <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
-              </div>
-					<div class="card-reveal">
-              <h4 class="card-title activator">Yarn Over<i class="material-icons right">close</i></h4>
-              <h5>Street artiste</h5>
-              <p>Réalisation d'installations textiles en milieu urbain.
-              <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle, facebook</p>
-              <a href="http://www.yarnover.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
-              </div>
-            </div>
-          </div><!--YARN OVER-->
+        <div id="" class="col s12 l10 offset-l1">
         <div class="col s12 l6 ">
           <div class="card">
-            <div class="card-image">
-					<img  class="activator" src="assets/img/works/work-timoun.jpg" alt="screenshot timoun">
-				</div>
-            <div class="card-content">
-              <h3 class="card-title activator">Ti'moun<i class="material-icons right">&#xE147;</i></h3>
-              <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">TinySite</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
-            </div>
-            <div class="card-reveal">
-              <h4 class="card-title">Ti'moun<i class="material-icons right">close</i></h4>
-              <h5>Association loi 1901</h5>
-              <p>Pour la promotion d'une parentalité positive</p>
-              <p>___</p>
-              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle, création d'une page facebook</p>
-					<a href="http://www.timoun.net" target="_blank"><i class="material-icons">&#xE89E;</i></a>              
-              </div>
-          </div>
-        </div><!--TIMOUN-->
-      </div>
-    </div>
-<div class="row works no-margin-bottom" >
-        <div id="cards" class="col s12 l10 offset-l1">
-        <div class="col s12 l6 ">
-          <div class="card">
-            <div class="card-image">
+            <div class="card-image" style="border-bottom:1px solid lightgrey;">
               <img class="activator" src="assets/img/works/work-medilab.jpg" alt="screenshot medilab">
             </div>
             <div class="card-content">
@@ -94,16 +52,39 @@
             </div>
  				<div class="card-reveal">
               <h4 class="card-title">Medilab<i class="material-icons right">close</i></h4>
-              <h5></h5>
-              <p></p>
+              <h5>Entreprise secteur pharmaceutique</h5>
+              <p>Basée à Dubaï, cette entreprise nous a confié la refonte complète de son site web.</p>
               <p>___</p>
               <p>Conception et réalisation d'un site branding sur-mesure, rédaction du contenu français/anglais </p>
               <a href="http://medilab.one/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
              </div>
           </div>
       </div><!--MEDILAB-->
-        
-          <div class="col s12 l6 ">
+       <div class="col s12 l6 ">
+            <div class="card">
+              <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
+               <img  class="activator" src="assets/img/works/work-fabdd.png" alt="scrennshot fab de dédé">
+              </div>
+              <div class="card-content">
+                <h3 class="card-title activator">Le Fab de DéDé<i class="material-icons right">&#xE147;</i></h3>
+                <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
+              </div>
+					<div class="card-reveal">
+              <h4 class="card-title activator">Le Fab de DéDé<i class="material-icons right">close</i></h4>
+              <h5>Micro-entreprise</h5>
+              <p>Atelier nomade de sensibilisation au développement durable</p>
+              <p>___</p>
+              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle (charte graphique, logotype, pictogrammes, illustrations)</p>
+              <a href="http://www.fab-développement-durable.fr/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              </div>
+            </div>
+          </div><!--LE FAB de DD-->
+      </div>
+      </div>
+    </div>
+<div class="row works no-margin-bottom" >
+        <div id="" class="col s12 l10 offset-l1">
+             <div class="col s12 l6 ">
             <div class="card">
               <div class="card-image">
                <img  class="activator" src="assets/img/works/work-cookies.jpg" alt="scrennshot cookies">
@@ -122,10 +103,28 @@
               </div>
             </div>
           </div><!--COOKIES-->
+        <div class="col s12 l6 ">
+          <div class="card">
+            <div class="card-image">
+              <img class="activator" src="assets/img/works/work-fred.jpg" alt="Sreenshot Fred petits travaux ">
+            </div>
+            <div class="card-content">
+              <h3 class="card-title activator">Fred<i class="material-icons right ">&#xE147;</i></h3>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
+            </div>
+ 				<div class="card-reveal">
+              <h4 class="card-title">Fred<i class="material-icons right">close</i></h4>
+              <h5>Micro-entreprise</h5>
+              <p>Petits travaux et remise en état sur Ceyreste (13)</p>
+              <p>___</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle (logotype, illustrations).</p>
+             </div>
+          </div>
+      </div><!--FRED-->
          </div>
          </div>
 <div class="row works no-margin-bottom" >
-        <div id="cards" class="col s12 l10 offset-l1">
+        <div id="" class="col s12 l10 offset-l1">
         <div class="col s12 l6 ">
           <div class="card">
             <div class="card-image">
@@ -147,53 +146,12 @@
         </div><!--LAB4MAKERS-->
         <div class="col s12 l6 ">
           <div class="card">
-            <div class="card-image">
-              <img class="activator" src="assets/img/works/work-fred.jpg" alt="Sreenshot Fred petits travaux ">
-            </div>
-            <div class="card-content">
-              <h3 class="card-title activator">Fred<i class="material-icons right ">&#xE147;</i></h3>
-              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
-            </div>
- 				<div class="card-reveal">
-              <h4 class="card-title">Fred<i class="material-icons right">close</i></h4>
-              <h5>Micro-entreprise</h5>
-              <p>Petits travaux et remise en état sur Ceyreste (13)</p>
-              <p>___</p>
-              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle (logotype, illustrations).</p>
-             </div>
-          </div>
-      </div><!--FRED-->
-      </div>
- </div>
-<div class="row works no-margin-bottom">
-        <div id="cards" class="col s12 l10 offset-l1">
-          <div class="col s12 l6 ">
-            <div class="card">
-              <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
-               <img  class="activator" src="assets/img/works/work-fabdd.png" alt="scrennshot fab de dédé">
-              </div>
-              <div class="card-content">
-                <h3 class="card-title activator">Le Fab de DéDé<i class="material-icons right">&#xE147;</i></h3>
-                <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
-              </div>
-					<div class="card-reveal">
-              <h4 class="card-title activator">Le Fab de DéDé<i class="material-icons right">close</i></h4>
-              <h5>Micro-entreprise</h5>
-              <p>Atelier nomade de sensibilisation au développement durable</p>
-              <p>___</p>
-              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle (charte graphique, logotype, pictogrammes, illustrations)</p>
-              <a href="http://www.fab-développement-durable.fr/" target="_blank"><i class="material-icons">&#xE89E;</i></a>
-              </div>
-            </div>
-          </div><!--LE FAB de DD-->
-        <div class="col s12 l6 ">
-          <div class="card">
             <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
 					<img  class="activator"  src="assets/img/works/work-take-that-stick.png" alt="screenshot naturopathe">
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Take that stick !<i class="material-icons right">&#xE147;</i></h3>
-              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
+              <div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
             </div>
             <div class="card-reveal">
               <h4 class="card-title">Take that stick !<i class="material-icons right">close</i></h4>
@@ -205,11 +163,55 @@
               </div>
           </div>
         </div><!--TAKE THAT STICK-->
+      </div>
+ </div>
+<div class="row works no-margin-bottom">
+        <div id="" class="col s12 l10 offset-l1">
+          <div class="col s12 l6 ">
+            <div class="card">
+              <div class="card-image orange lighten-2 waves-effect waves-block waves-light">
+               <img  class="activator" src="assets/img/works/work-yarnover.jpg" alt="screenshot yarnover.xyz">
+              </div>
+              <div class="card-content">
+                <h3 class="card-title activator">Yarn Over<i class="material-icons right">&#xE147;</i></h3>
+               <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
+              </div>
+					<div class="card-reveal">
+              <h4 class="card-title activator">Yarn Over<i class="material-icons right">close</i></h4>
+              <h5>Street artiste</h5>
+              <p>Réalisation d'installations textiles en milieu urbain.
+              <p>___</p>
+              <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle, facebook</p>
+              <a href="http://www.yarnover.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              </div>
+   
+				</div>          
+          </div><!--YARN OVER-->
+
+        <div class="col s12 l6 ">
+          <div class="card">
+            <div class="card-image">
+					<img  class="activator" src="assets/img/works/work-timoun.jpg" alt="screenshot timoun">
+				</div>
+            <div class="card-content">
+              <h3 class="card-title activator">Ti'moun<i class="material-icons right">&#xE147;</i></h3>
+              <span><div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">TinySite</div><div class="chip" style="background-color:#6cffff;">Développement</div></span>
+            </div>
+            <div class="card-reveal">
+              <h4 class="card-title">Ti'moun<i class="material-icons right">close</i></h4>
+              <h5>Association loi 1901</h5>
+              <p>Pour la promotion d'une parentalité positive</p>
+              <p>___</p>
+              <p>Réalisation d'un <a href="http://tinysite.cooldev.xyz" target="_blank"> TinySite</a>, identité visuelle, création d'une page facebook</p>
+					<a href="http://www.timoun.net" target="_blank"><i class="material-icons">&#xE89E;</i></a>              
+              </div>
+          </div>
+        </div><!--TIMOUN-->
        </div>
       </div>
 <div class="row works no-margin-bottom" >
-        <div id="cards" class="col s12 l10 offset-l1">       
-        <div class="col s12 m6 ">
+        <div id="" class="col s12 l10 offset-l1">       
+        <div class="col s12 l6 ">
           <div class="card">
             <div class="card-image">
               <img class="activator" src="assets/img/works/work-with-you.png" alt="we love work with you ">

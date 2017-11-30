@@ -96,7 +96,7 @@ setHeight("#works .card-content");
 setHeight("#cards-testimonial .card-testi");
     
  // Initialisation Particles
- let particlesUrl = "http://localhost/cooldev-v2/assets/js/particles.json";
+ let particlesUrl = "http://mylene.hiezely.space/assets/js/particles.json";
  particlesJS.load('particles', particlesUrl, function() {
   console.log('particles.js loaded - callback');
 });
