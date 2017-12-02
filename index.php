@@ -24,8 +24,8 @@
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="http://www.cooldev.xyz/assets/img/open-graph/og-cooldev.png">
 
-<!-- Piwik -->
-		<!--<script type="text/javascript" defer>
+<!-- Piwik 
+		<script type="text/javascript" defer>
 		  var _paq = _paq || [];
 		  _paq.push(["setCookieDomain", "*.cooldev.xyz"]);
 		  _paq.push(['trackPageView']);
@@ -38,7 +38,7 @@
 		    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 		  })();
 		</script>
-<!-- End Piwik Code -->
+ End Piwik Code -->
 
 </head>
 <body>
@@ -115,7 +115,7 @@
 			</div><!--TITLE-->
 		</div>
 		<div class="container">
-		<div class="row skills col s12">
+		<div class="skills">
 		<?php
 	include('private/view/whatwedo.php');
 ?>

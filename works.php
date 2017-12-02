@@ -99,7 +99,7 @@
               <p>L'ultime recette des cookies !</p>
               <p>___</p>
               <p>Conception graphique (logotype, pictogrammes, illustrations) et réalisation d'un site vitrine : les ingrédients indispensables pour partager facilement cette recette gourmande.</p>
-              <a href="http:///" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              <!--<a href="http:///" target="_blank"><i class="material-icons">&#xE89E;</i></a>-->
               </div>
             </div>
           </div><!--COOKIES-->
@@ -182,7 +182,7 @@
               <p>Réalisation d'installations textiles en milieu urbain.
               <p>___</p>
               <p>Conception et réalisation d'un site vitrine sur-mesure, identité visuelle, facebook</p>
-              <a href="http://www.yarnover.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
+              <!--<a href="http://www.yarnover.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>-->
               </div>
    
 				</div>          
@@ -218,7 +218,7 @@
             </div>
             <div class="card-content">
               <h3 class="card-title activator">Avec plaisir !<i class="material-icons right ">&#xE147;</i></h3>
-              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div>
+              <div class="chip" style="background-color:#ff6cf5;">Identité</div><div class="chip" style="background-color:#ffff5d;">Webdesign</div><div class="chip" style="background-color:#6cffff;">Développement</div><div class="chip">Mentorat</div>
             </div>
  				<div class="card-reveal">
               <h4 class="card-title">Avec plaisir !<i class="material-icons right">close</i></h4>
