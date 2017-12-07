@@ -42,6 +42,14 @@ $(function(){
       $('#up').fadeOut();
      }
  });
+ 
+ // ScrollFire
+ var options = [
+ 	 {selector: '#unicorn', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
+    {selector: '.staggered', offset: 100, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+  ];
+  Materialize.scrollFire(options);
+  
 // Initialisation Paralax
       $('.parallax').parallax();
 

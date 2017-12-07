@@ -78,7 +78,7 @@
 	  		</div><!--PICTO 2-->
 	  		<div class="picto-offre col s12 m12 l4 center-align">
 					<img class="responsive-img" src="assets/img/picto-pig-2.png" alt="illustration budget maitrisé"  >
-					<p class="grey-text">Nous vous écoutons et comprenons vos besoins, objectifs et contraintes pour vous proposer les solutions adaptées à votre projet.<p>
+					<ul class="staggered"><li style="font-size: 2rem; opacity: 0;" class="grey-text">Nous vous écoutons et comprenons vos besoins, objectifs et contraintes pour vous proposer les solutions adaptées à votre projet.<li></ul>
 	  		</div><!--PICTO 3-->	    
 		</div>
 	</section><!--SECTION OFFRE-->
@@ -110,7 +110,7 @@
 	  		<div class="title col s12">
 	  		<h2 class="center-align">Nos spécialités</h2>
 	  		<div class="center-align" >
-	  		<img src="assets/img/picto-unicorn-6.png" alt="">
+	  		<img id="unicorn" style="opacity:0;" src="assets/img/picto-unicorn-6.png" alt="">
 	  		</div>
 			</div><!--TITLE-->
 		</div>
