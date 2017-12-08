@@ -45,12 +45,15 @@ $(function(){
  
  // ScrollFire
  var options = [
- 	 {selector: '#unicorn', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
-    {selector: '.staggered', offset: 100, callback: function(el) { Materialize.showStaggeredList($(el)); } },
-  ];
+ 	 {selector: '#staggered2', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
+ 	 {selector: '#staggered1', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
+ 	 {selector: '#staggered3', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
+    {selector: '#brain', offset: 350, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+    {selector: '#unicorn', offset: 350, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+      ];
   Materialize.scrollFire(options);
   
-// Initialisation Paralax
+// Initialisation Parala5
       $('.parallax').parallax();
 
 //Initialisation tooltip
