@@ -7,10 +7,9 @@
     <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
 
 
-<!-- Piwik 
+<!-- Piwik -->
 		<script type="text/javascript">
 		  var _paq = _paq || [];
-		  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 		  _paq.push(["setCookieDomain", "*.cooldev.xyz"]);
 		  _paq.push(['trackPageView']);
 		  _paq.push(['enableLinkTracking']);
@@ -22,5 +21,5 @@
 		    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 		  })();
 		</script>
- End Piwik Code -->
+ <!--End Piwik Code -->
 

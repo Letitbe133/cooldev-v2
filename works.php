@@ -99,7 +99,7 @@
               <p>L'ultime recette des cookies !</p>
               <p>___</p>
               <p>Conception graphique (logotype, pictogrammes, illustrations) et réalisation d'un site vitrine : les ingrédients indispensables pour partager facilement cette recette gourmande.</p>
-              <!--<a href="http:///" target="_blank"><i class="material-icons">&#xE89E;</i></a>-->
+              <a href="http://cookies.mpaw.xyz" target="_blank"><i class="material-icons">&#xE89E;</i></a>
               </div>
             </div>
           </div><!--COOKIES-->
@@ -223,7 +223,7 @@
  				<div class="card-reveal">
               <h4 class="card-title">Avec plaisir !<i class="material-icons right">close</i></h4>
               <h5></h5>
-              <p>Nous sommes à votre disposition pour évaluer avec vous vos besoins en matière de communication digitale.</p>
+              <p>Nous sommes à votre écoute pour évaluer avec vous vos besoins en matière de communication digitale.</p>
               <p>___</p>
               <p><a data-target="#section-contact" class="tape scrollTo" href="#section-contact">Contactez-nous</a>. Nous avons hâte de découvrir votre projet et de collaborer avec vous.</p>
              </div>

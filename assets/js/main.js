@@ -48,8 +48,8 @@ $(function(){
  	 {selector: '#staggered2', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
  	 {selector: '#staggered1', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
  	 {selector: '#staggered3', offset: 100, callback: function(el) { Materialize.fadeInImage($(el)); }},
-    {selector: '#brain', offset: 350, callback: function(el) { Materialize.showStaggeredList($(el)); } },
-    {selector: '#unicorn', offset: 350, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+    {selector: '#brain', offset: 200, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+    {selector: '#unicorn', offset: 200, callback: function(el) { Materialize.showStaggeredList($(el)); } },
       ];
   Materialize.scrollFire(options);
   
